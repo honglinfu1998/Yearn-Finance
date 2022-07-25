@@ -1,0 +1,4823 @@
+{
+  "data": {
+    "votes": [
+      {
+        "id": "0xebe510ef73ec79a5f1cf343fa746fb01188218a3d78b51aa94ee935c19a214bd",
+        "voter": "0x8a87378502745451f1d35497A39110D9e040E885",
+        "vp": 4.651678176553647,
+        "vp_by_strategy": [
+          4.651678176553647,
+          0
+        ],
+        "vp_state": "final",
+        "created": 1639354349,
+        "proposal": {
+          "id": "0x783cb3d57dd59b2827f6a42967375f06504cc947ebaa3c0e495c7b29ffd47aea"
+        },
+        "choice": {
+          "5": 100
+        },
+        "space": {
+          "id": "ybaby.eth"
+        }
+      },
+      {
+        "id": "0x7da925a6655f63f97647126e6c95a464e6aae6358f1c1c3c8c99c3876121d0a2",
+        "voter": "0x99B9B86B71c32e215CB81e33999208941D308C04",
+        "vp": 0.21215883240971475,
+        "vp_by_strategy": [
+          0.21215883240971475,
+          0
+        ],
+        "vp_state": "final",
+        "created": 1639354314,
+        "proposal": {
+          "id": "0x783cb3d57dd59b2827f6a42967375f06504cc947ebaa3c0e495c7b29ffd47aea"
+        },
+        "choice": {
+          "3": 1
+        },
+        "space": {
+          "id": "ybaby.eth"
+        }
+      },
+      {
+        "id": "0xd7d064a92326b74e09b129cba0c31224481c12b28241f5dc584236ba441f1718",
+        "voter": "0xd03DFAe032b8360297BB27496c5C26119fd7F201",
+        "vp": 3.1674957720277357,
+        "vp_by_strategy": [
+          3.1674957720277357,
+          0
+        ],
+        "vp_state": "final",
+        "created": 1639354279,
+        "proposal": {
+          "id": "0x783cb3d57dd59b2827f6a42967375f06504cc947ebaa3c0e495c7b29ffd47aea"
+        },
+        "choice": {
+          "1": 1,
+          "2": 1,
+          "3": 1
+        },
+        "space": {
+          "id": "ybaby.eth"
+        }
+      },
+      {
+        "id": "0x85dbdb20ab39ecaf44398c1720f4d14373ece46c3cc77d907d653c5e26bcb031",
+        "voter": "0xBF107cd8D91e983690A34C565b1ad978a5b6729f",
+        "vp": 1.2526631951486467,
+        "vp_by_strategy": [
+          1.2526631951486469,
+          0
+        ],
+        "vp_state": "final",
+        "created": 1639354146,
+        "proposal": {
+          "id": "0x783cb3d57dd59b2827f6a42967375f06504cc947ebaa3c0e495c7b29ffd47aea"
+        },
+        "choice": {
+          "3": 1
+        },
+        "space": {
+          "id": "ybaby.eth"
+        }
+      },
+      {
+        "id": "0xa04e9acbc318db1d6899abf165ae9567b66c2e3ba5b2025f803ed5de5b331e00",
+        "voter": "0x06a035b1321DFEcdedDb940686860e05BA268DCD",
+        "vp": 0.34225940032323177,
+        "vp_by_strategy": [
+          0.34225940032323177,
+          0
+        ],
+        "vp_state": "final",
+        "created": 1639353946,
+        "proposal": {
+          "id": "0x783cb3d57dd59b2827f6a42967375f06504cc947ebaa3c0e495c7b29ffd47aea"
+        },
+        "choice": {
+          "3": 1
+        },
+        "space": {
+          "id": "ybaby.eth"
+        }
+      },
+      {
+        "id": "0xc33fdb736365813ca84b29fedf6de539433838ecb5e9a0d611b8f73c155439a6",
+        "voter": "0xEEad1396fe5f0daec6DbC04d8a43E85dDE4d97DA",
+        "vp": 0.03648534759365798,
+        "vp_by_strategy": [
+          0.03648534759365798,
+          0
+        ],
+        "vp_state": "final",
+        "created": 1639353873,
+        "proposal": {
+          "id": "0x783cb3d57dd59b2827f6a42967375f06504cc947ebaa3c0e495c7b29ffd47aea"
+        },
+        "choice": {
+          "2": 25,
+          "3": 50,
+          "4": 25
+        },
+        "space": {
+          "id": "ybaby.eth"
+        }
+      },
+      {
+        "id": "0x5aa76585d07c9cfbb6627fa469bef25d0fd8144f625bb097d66e552b345eed5c",
+        "voter": "0xd0dC07B98769f23A7BDbef15A35Faa256CB65dCF",
+        "vp": 0.6769703503413682,
+        "vp_by_strategy": [
+          0.6769703503413682,
+          0
+        ],
+        "vp_state": "final",
+        "created": 1639353839,
+        "proposal": {
+          "id": "0x783cb3d57dd59b2827f6a42967375f06504cc947ebaa3c0e495c7b29ffd47aea"
+        },
+        "choice": {
+          "3": 1
+        },
+        "space": {
+          "id": "ybaby.eth"
+        }
+      },
+      {
+        "id": "QmfFwoen4FVAPT4wGSubUiK5evcLNCDMPbDBRRoYMg4yoQ",
+        "voter": "0x6F26Ce8CCEf85aFbc944567bd41D63D09D3e3033",
+        "vp": 3.03580065812262,
+        "vp_by_strategy": [
+          3.03580065812262,
+          0
+        ],
+        "vp_state": "final",
+        "created": 1639353578,
+        "proposal": {
+          "id": "0x783cb3d57dd59b2827f6a42967375f06504cc947ebaa3c0e495c7b29ffd47aea"
+        },
+        "choice": {
+          "2": 100
+        },
+        "space": {
+          "id": "ybaby.eth"
+        }
+      },
+      {
+        "id": "0xd7b803bb5d493b1571fcdef28720c1b7504bbf128a7621a4c687f3e35b1d08c1",
+        "voter": "0xE4B8C8e33b17eC8517403852d7bb272134a2271a",
+        "vp": 0.02507994547588561,
+        "vp_by_strategy": [
+          0.02507994547588561,
+          0
+        ],
+        "vp_state": "final",
+        "created": 1639347963,
+        "proposal": {
+          "id": "0x783cb3d57dd59b2827f6a42967375f06504cc947ebaa3c0e495c7b29ffd47aea"
+        },
+        "choice": {
+          "3": 1
+        },
+        "space": {
+          "id": "ybaby.eth"
+        }
+      },
+      {
+        "id": "0x10a9e52a3810622eb7ebf9a2fd05456979322808838e131ec0a7d6e2efbc75ae",
+        "voter": "0xcbdC76e52895B5dE79C315b8AB3f0a7a5Ac04ab3",
+        "vp": 103.1063828009375,
+        "vp_by_strategy": [
+          103.1063828009375,
+          0
+        ],
+        "vp_state": "final",
+        "created": 1639337487,
+        "proposal": {
+          "id": "0x783cb3d57dd59b2827f6a42967375f06504cc947ebaa3c0e495c7b29ffd47aea"
+        },
+        "choice": {
+          "3": 1
+        },
+        "space": {
+          "id": "ybaby.eth"
+        }
+      },
+      {
+        "id": "0x8c832b79782517aaa7c7eedf235e3df9c73700bca5eb90cae4fb33b49c4e6c45",
+        "voter": "0x121111a0b0C09Ceca66C7a8bB5b4B3098572a0eA",
+        "vp": 283.6869414775901,
+        "vp_by_strategy": [
+          0,
+          283.6869414775901
+        ],
+        "vp_state": "final",
+        "created": 1639337012,
+        "proposal": {
+          "id": "0x783cb3d57dd59b2827f6a42967375f06504cc947ebaa3c0e495c7b29ffd47aea"
+        },
+        "choice": {
+          "3": 5
+        },
+        "space": {
+          "id": "ybaby.eth"
+        }
+      },
+      {
+        "id": "0x8a7c5c4e250b87df02f3b8054490bcad5084702da5905b0a801c8dc25d8bb05b",
+        "voter": "0xAD549C7fcF1bd3E57BCa464D9Dce0A0D561599D1",
+        "vp": 0.34401635735484976,
+        "vp_by_strategy": [
+          0.34401635735484976,
+          0
+        ],
+        "vp_state": "final",
+        "created": 1639336482,
+        "proposal": {
+          "id": "0x783cb3d57dd59b2827f6a42967375f06504cc947ebaa3c0e495c7b29ffd47aea"
+        },
+        "choice": {
+          "5": 1
+        },
+        "space": {
+          "id": "ybaby.eth"
+        }
+      },
+      {
+        "id": "0xd1c688ab2da8c2c91ef4a35b8f9ed9e76b552234843ff156c288f58887f004c2",
+        "voter": "0x5a90d3E6CfCC55d4D63bA4f729922413D9364c67",
+        "vp": 0.565856444660702,
+        "vp_by_strategy": [
+          0.565856444660702,
+          0
+        ],
+        "vp_state": "final",
+        "created": 1639332712,
+        "proposal": {
+          "id": "0x783cb3d57dd59b2827f6a42967375f06504cc947ebaa3c0e495c7b29ffd47aea"
+        },
+        "choice": {
+          "3": 50,
+          "4": 50
+        },
+        "space": {
+          "id": "ybaby.eth"
+        }
+      },
+      {
+        "id": "0x52f8b1e35c28f7789f38f6f45af711318d6bf4638a56f06c54cd35b5c5724389",
+        "voter": "0xcef7df138ACeDBA6B8742D10125D1D4caCb2dFD8",
+        "vp": 0.00001,
+        "vp_by_strategy": [
+          0.00001,
+          0
+        ],
+        "vp_state": "final",
+        "created": 1639330963,
+        "proposal": {
+          "id": "0x783cb3d57dd59b2827f6a42967375f06504cc947ebaa3c0e495c7b29ffd47aea"
+        },
+        "choice": {
+          "5": 1
+        },
+        "space": {
+          "id": "ybaby.eth"
+        }
+      },
+      {
+        "id": "0x70f097754fb182b63c4e7cde53fece4be611264f5d9f79548375d3abfde3d74e",
+        "voter": "0x05b3cD79E9708510273a1333eBdDdb757b25B4ab",
+        "vp": 0.00001,
+        "vp_by_strategy": [
+          0.00001,
+          0
+        ],
+        "vp_state": "final",
+        "created": 1639330950,
+        "proposal": {
+          "id": "0x783cb3d57dd59b2827f6a42967375f06504cc947ebaa3c0e495c7b29ffd47aea"
+        },
+        "choice": {
+          "5": 1
+        },
+        "space": {
+          "id": "ybaby.eth"
+        }
+      },
+      {
+        "id": "0x156bea30bacbea0fea009f2ec31b7ac62573d4535370f6af8d20ac5e2f34fd25",
+        "voter": "0xC8204fAA2FB57A6D20D954C9b6BD29B3A3ffE14b",
+        "vp": 0.00001,
+        "vp_by_strategy": [
+          0.00001,
+          0
+        ],
+        "vp_state": "final",
+        "created": 1639330942,
+        "proposal": {
+          "id": "0x783cb3d57dd59b2827f6a42967375f06504cc947ebaa3c0e495c7b29ffd47aea"
+        },
+        "choice": {
+          "5": 1
+        },
+        "space": {
+          "id": "ybaby.eth"
+        }
+      },
+      {
+        "id": "0xd2bb1e33d959cdd8e4eaff895f35c3f941e977fbd6a8b216776c8245f51c7561",
+        "voter": "0xF4aa13F8B8E4f77fb5eeFF48A4421F2181aa208D",
+        "vp": 0.00001,
+        "vp_by_strategy": [
+          0.00001,
+          0
+        ],
+        "vp_state": "final",
+        "created": 1639330932,
+        "proposal": {
+          "id": "0x783cb3d57dd59b2827f6a42967375f06504cc947ebaa3c0e495c7b29ffd47aea"
+        },
+        "choice": {
+          "5": 1
+        },
+        "space": {
+          "id": "ybaby.eth"
+        }
+      },
+      {
+        "id": "0xfb009164b8fe0a336f176e05265e2896593697e9d92624757c1baee4ab7634ab",
+        "voter": "0xc34F6c5735069217F2Ed10439a303fd65B70EEA7",
+        "vp": 0.00001,
+        "vp_by_strategy": [
+          0.00001,
+          0
+        ],
+        "vp_state": "final",
+        "created": 1639330898,
+        "proposal": {
+          "id": "0x783cb3d57dd59b2827f6a42967375f06504cc947ebaa3c0e495c7b29ffd47aea"
+        },
+        "choice": {
+          "5": 1
+        },
+        "space": {
+          "id": "ybaby.eth"
+        }
+      },
+      {
+        "id": "0x2ee8f0878a6a8dc9e5b9c584ba54275e00dda31074b74545777a6cab4fbcb71d",
+        "voter": "0xfC5Ab7277f3A03472e210213A4eF86c5E4b48C24",
+        "vp": 0.00001,
+        "vp_by_strategy": [
+          0.00001,
+          0
+        ],
+        "vp_state": "final",
+        "created": 1639330890,
+        "proposal": {
+          "id": "0x783cb3d57dd59b2827f6a42967375f06504cc947ebaa3c0e495c7b29ffd47aea"
+        },
+        "choice": {
+          "5": 1
+        },
+        "space": {
+          "id": "ybaby.eth"
+        }
+      },
+      {
+        "id": "0x599a4ed6163578ec99f044b141173e1b51b472b888129e7d485100eb58f619a7",
+        "voter": "0x1A6Cd6Fa60c146Ab2Eb8e5650F33D300cff2086E",
+        "vp": 0.00001,
+        "vp_by_strategy": [
+          0.00001,
+          0
+        ],
+        "vp_state": "final",
+        "created": 1639330883,
+        "proposal": {
+          "id": "0x783cb3d57dd59b2827f6a42967375f06504cc947ebaa3c0e495c7b29ffd47aea"
+        },
+        "choice": {
+          "5": 1
+        },
+        "space": {
+          "id": "ybaby.eth"
+        }
+      },
+      {
+        "id": "0x7aad2b2c296c259c88c263beccbef39fb19ccc22f7980a1c1b7a8430e819a763",
+        "voter": "0x4B1cA2BF0Cc268B0dbb092B7A44F772664Aa85c2",
+        "vp": 0.00001,
+        "vp_by_strategy": [
+          0.00001,
+          0
+        ],
+        "vp_state": "final",
+        "created": 1639330874,
+        "proposal": {
+          "id": "0x783cb3d57dd59b2827f6a42967375f06504cc947ebaa3c0e495c7b29ffd47aea"
+        },
+        "choice": {
+          "5": 1
+        },
+        "space": {
+          "id": "ybaby.eth"
+        }
+      },
+      {
+        "id": "0x10b405d4b11f6db134d6614e0e0c68bd49f5b7368b68ee2785f8b8950799a50a",
+        "voter": "0x512a75DC4e1C8Cf3349c6914696476f5c6fbe2FD",
+        "vp": 0.00001,
+        "vp_by_strategy": [
+          0.00001,
+          0
+        ],
+        "vp_state": "final",
+        "created": 1639330865,
+        "proposal": {
+          "id": "0x783cb3d57dd59b2827f6a42967375f06504cc947ebaa3c0e495c7b29ffd47aea"
+        },
+        "choice": {
+          "5": 1
+        },
+        "space": {
+          "id": "ybaby.eth"
+        }
+      },
+      {
+        "id": "0x67e979d618243d0d2991e572e275d18a7292fa30d3ab63695a3b4de070ef401d",
+        "voter": "0x057337ca65a7986f1cE597d89ebAc9d5F2785848",
+        "vp": 0.00001,
+        "vp_by_strategy": [
+          0.00001,
+          0
+        ],
+        "vp_state": "final",
+        "created": 1639330857,
+        "proposal": {
+          "id": "0x783cb3d57dd59b2827f6a42967375f06504cc947ebaa3c0e495c7b29ffd47aea"
+        },
+        "choice": {
+          "5": 1
+        },
+        "space": {
+          "id": "ybaby.eth"
+        }
+      },
+      {
+        "id": "0x92a878ee31cadfaa4f5f1e1eadcadfba14c10c07289dcc69145bddba59d41351",
+        "voter": "0x1ac0881b84029C6a4c2461Cd7a69Ac03F8D21f80",
+        "vp": 0.0001,
+        "vp_by_strategy": [
+          0.0001,
+          0
+        ],
+        "vp_state": "final",
+        "created": 1639330846,
+        "proposal": {
+          "id": "0x783cb3d57dd59b2827f6a42967375f06504cc947ebaa3c0e495c7b29ffd47aea"
+        },
+        "choice": {
+          "5": 1
+        },
+        "space": {
+          "id": "ybaby.eth"
+        }
+      },
+      {
+        "id": "0x464d17c8e7cd5282758007fb9cd0b77f36cad49c3971eb655dab62aba5f53af6",
+        "voter": "0xF91a753332F6f5708747B20434C020faAdB824A4",
+        "vp": 0.00001,
+        "vp_by_strategy": [
+          0.00001,
+          0
+        ],
+        "vp_state": "final",
+        "created": 1639330837,
+        "proposal": {
+          "id": "0x783cb3d57dd59b2827f6a42967375f06504cc947ebaa3c0e495c7b29ffd47aea"
+        },
+        "choice": {
+          "5": 1
+        },
+        "space": {
+          "id": "ybaby.eth"
+        }
+      },
+      {
+        "id": "0x20b81224b5464e87791dd73a57b0ed4cb626db492c2078e89731dd0718f7f8b2",
+        "voter": "0xD04aDa074E7652302A66D8C762Ab05785364c305",
+        "vp": 0.00001,
+        "vp_by_strategy": [
+          0.00001,
+          0
+        ],
+        "vp_state": "final",
+        "created": 1639330830,
+        "proposal": {
+          "id": "0x783cb3d57dd59b2827f6a42967375f06504cc947ebaa3c0e495c7b29ffd47aea"
+        },
+        "choice": {
+          "5": 1
+        },
+        "space": {
+          "id": "ybaby.eth"
+        }
+      },
+      {
+        "id": "0x77c89082fe4f9bf5ba5c890861f9bb33ca4433d3bad0963b6d6a87703ceb1227",
+        "voter": "0xdB8436E8AC42cA0eE874924118Fc20b5cDD150E0",
+        "vp": 0.00001,
+        "vp_by_strategy": [
+          0.00001,
+          0
+        ],
+        "vp_state": "final",
+        "created": 1639330823,
+        "proposal": {
+          "id": "0x783cb3d57dd59b2827f6a42967375f06504cc947ebaa3c0e495c7b29ffd47aea"
+        },
+        "choice": {
+          "5": 1
+        },
+        "space": {
+          "id": "ybaby.eth"
+        }
+      },
+      {
+        "id": "0x319501b754691134a410846465448af38eb3d903eec1fc631e16a000c409d2d1",
+        "voter": "0x4A9e418C7C1404E2eDc987D9733b7d204068384a",
+        "vp": 0.00001,
+        "vp_by_strategy": [
+          0.00001,
+          0
+        ],
+        "vp_state": "final",
+        "created": 1639330816,
+        "proposal": {
+          "id": "0x783cb3d57dd59b2827f6a42967375f06504cc947ebaa3c0e495c7b29ffd47aea"
+        },
+        "choice": {
+          "5": 1
+        },
+        "space": {
+          "id": "ybaby.eth"
+        }
+      },
+      {
+        "id": "0xfa7111476ba8dbea14a426fcab3dc5cfeac404c0119fc4a1ef7741324cf63b9a",
+        "voter": "0x27800E16C7880feb06E1EaF5232fe098ac1A5736",
+        "vp": 0.00001,
+        "vp_by_strategy": [
+          0.00001,
+          0
+        ],
+        "vp_state": "final",
+        "created": 1639330794,
+        "proposal": {
+          "id": "0x783cb3d57dd59b2827f6a42967375f06504cc947ebaa3c0e495c7b29ffd47aea"
+        },
+        "choice": {
+          "5": 1
+        },
+        "space": {
+          "id": "ybaby.eth"
+        }
+      },
+      {
+        "id": "0x9285fdff8001d28f331f49383d01e7fb6e20bfa2b9e4f58c8eced9e9f6f65a62",
+        "voter": "0x39721321Db276205898F70A86c96B8Db27c1602E",
+        "vp": 0.00001,
+        "vp_by_strategy": [
+          0.00001,
+          0
+        ],
+        "vp_state": "final",
+        "created": 1639330784,
+        "proposal": {
+          "id": "0x783cb3d57dd59b2827f6a42967375f06504cc947ebaa3c0e495c7b29ffd47aea"
+        },
+        "choice": {
+          "5": 1
+        },
+        "space": {
+          "id": "ybaby.eth"
+        }
+      },
+      {
+        "id": "0xbdcb62158f5a1d27e7f3a981778e49b81f19206dce7897fe369ec6a50c086097",
+        "voter": "0xd5cA005b494B821f6C6F81622945529f25548bD2",
+        "vp": 0.00001,
+        "vp_by_strategy": [
+          0.00001,
+          0
+        ],
+        "vp_state": "final",
+        "created": 1639330759,
+        "proposal": {
+          "id": "0x783cb3d57dd59b2827f6a42967375f06504cc947ebaa3c0e495c7b29ffd47aea"
+        },
+        "choice": {
+          "5": 1
+        },
+        "space": {
+          "id": "ybaby.eth"
+        }
+      },
+      {
+        "id": "0xa2d91eccb039cbf45538abc43b3ad028944c7cd4cb18045ebb89963bb221b53d",
+        "voter": "0x084bC724dB697d61DFC33259c302FfBA1CEa2028",
+        "vp": 0.00002,
+        "vp_by_strategy": [
+          0.00002,
+          0
+        ],
+        "vp_state": "final",
+        "created": 1639330573,
+        "proposal": {
+          "id": "0x783cb3d57dd59b2827f6a42967375f06504cc947ebaa3c0e495c7b29ffd47aea"
+        },
+        "choice": {
+          "2": 1,
+          "3": 1
+        },
+        "space": {
+          "id": "ybaby.eth"
+        }
+      },
+      {
+        "id": "0x0c2a6e7600ea2ceba22ac35a8c409824810eb678c49f71a311ccb1db7f3a2269",
+        "voter": "0x70d7c958907Bf55E6ffb5b1349dE08bDd64bFfa4",
+        "vp": 0.0001,
+        "vp_by_strategy": [
+          0.0001,
+          0
+        ],
+        "vp_state": "final",
+        "created": 1639330114,
+        "proposal": {
+          "id": "0x783cb3d57dd59b2827f6a42967375f06504cc947ebaa3c0e495c7b29ffd47aea"
+        },
+        "choice": {
+          "5": 1
+        },
+        "space": {
+          "id": "ybaby.eth"
+        }
+      },
+      {
+        "id": "0xcfde83a491100f41d609fe5ab26769944120f22dd1241867ccf987454d1fd602",
+        "voter": "0xCcccB628Da9440ABF500187305f88d16CCff6523",
+        "vp": 0.00002,
+        "vp_by_strategy": [
+          0.00002,
+          0
+        ],
+        "vp_state": "final",
+        "created": 1639329913,
+        "proposal": {
+          "id": "0x783cb3d57dd59b2827f6a42967375f06504cc947ebaa3c0e495c7b29ffd47aea"
+        },
+        "choice": {
+          "5": 1
+        },
+        "space": {
+          "id": "ybaby.eth"
+        }
+      },
+      {
+        "id": "0x3794afabf8bae4ab88a26c2f67e07872dfd7b85d28e81e4f1f5bfe8df6c9ad71",
+        "voter": "0x13Ec7838df92dc8CFCdbeD49cEc535FdAD9E124b",
+        "vp": 1.596840472681817,
+        "vp_by_strategy": [
+          1.596840472681817,
+          0
+        ],
+        "vp_state": "final",
+        "created": 1639324750,
+        "proposal": {
+          "id": "0x783cb3d57dd59b2827f6a42967375f06504cc947ebaa3c0e495c7b29ffd47aea"
+        },
+        "choice": {
+          "5": 1
+        },
+        "space": {
+          "id": "ybaby.eth"
+        }
+      },
+      {
+        "id": "0xdac6afc5a3c9ee3d67087f252ea8efc90a0ef42499842289c4521a813df5d8fa",
+        "voter": "0x279544B915a445A7324E7eb0856688434E03958b",
+        "vp": 0.00001,
+        "vp_by_strategy": [
+          0.00001,
+          0
+        ],
+        "vp_state": "final",
+        "created": 1639316837,
+        "proposal": {
+          "id": "0x783cb3d57dd59b2827f6a42967375f06504cc947ebaa3c0e495c7b29ffd47aea"
+        },
+        "choice": {
+          "3": 1
+        },
+        "space": {
+          "id": "ybaby.eth"
+        }
+      },
+      {
+        "id": "0x13d111fa2eae95fb1c252e328001f7c14a382cec5628e050f99a8705ebf07248",
+        "voter": "0x0A540a482b4FD8253F502Fb7F7002C86dC675D56",
+        "vp": 0.00001,
+        "vp_by_strategy": [
+          0.00001,
+          0
+        ],
+        "vp_state": "final",
+        "created": 1639316827,
+        "proposal": {
+          "id": "0x783cb3d57dd59b2827f6a42967375f06504cc947ebaa3c0e495c7b29ffd47aea"
+        },
+        "choice": {
+          "3": 1
+        },
+        "space": {
+          "id": "ybaby.eth"
+        }
+      },
+      {
+        "id": "0x05e9fa86c25e1b09d6050a51cc28aa2bd3cbf3d8aca316ea3a484beebf44ec35",
+        "voter": "0x6EDbFAa3a155765db0a9D51C4336a9636B130ca4",
+        "vp": 0.00002985,
+        "vp_by_strategy": [
+          0.00002985,
+          0
+        ],
+        "vp_state": "final",
+        "created": 1639316801,
+        "proposal": {
+          "id": "0x783cb3d57dd59b2827f6a42967375f06504cc947ebaa3c0e495c7b29ffd47aea"
+        },
+        "choice": {
+          "3": 1
+        },
+        "space": {
+          "id": "ybaby.eth"
+        }
+      },
+      {
+        "id": "0x666ff155cf834e48d0c34a2b42fe9edffe751681e68a4383746dae3246ffb374",
+        "voter": "0x3037E656D033C951574AFB02E409a91D93B2cb73",
+        "vp": 0.00002986,
+        "vp_by_strategy": [
+          0.00002986,
+          0
+        ],
+        "vp_state": "final",
+        "created": 1639316746,
+        "proposal": {
+          "id": "0x783cb3d57dd59b2827f6a42967375f06504cc947ebaa3c0e495c7b29ffd47aea"
+        },
+        "choice": {
+          "2": 1
+        },
+        "space": {
+          "id": "ybaby.eth"
+        }
+      },
+      {
+        "id": "0x4d9ee679e6a8d23d9ebf7d951b4fcb829f65cb507d4180d96e470dcce609b4c6",
+        "voter": "0x16Ce1B15ed1278921d7Cae34Bf60a81227CFC295",
+        "vp": 0.0001,
+        "vp_by_strategy": [
+          0.0001,
+          0
+        ],
+        "vp_state": "final",
+        "created": 1639316631,
+        "proposal": {
+          "id": "0x783cb3d57dd59b2827f6a42967375f06504cc947ebaa3c0e495c7b29ffd47aea"
+        },
+        "choice": {
+          "1": 1
+        },
+        "space": {
+          "id": "ybaby.eth"
+        }
+      },
+      {
+        "id": "0x17255e67c37e21d78a58bf862c703bced24561b8b2b459487404012be2941562",
+        "voter": "0x145DD77C0EB627b7B93CEabECAd82472e424B0f5",
+        "vp": 1.0048500762893375,
+        "vp_by_strategy": [
+          1.0048500762893375,
+          0
+        ],
+        "vp_state": "final",
+        "created": 1639316252,
+        "proposal": {
+          "id": "0x783cb3d57dd59b2827f6a42967375f06504cc947ebaa3c0e495c7b29ffd47aea"
+        },
+        "choice": {
+          "1": 2
+        },
+        "space": {
+          "id": "ybaby.eth"
+        }
+      },
+      {
+        "id": "0x9c2a2ce2a45f1adcf86704c0cfcc8e39898e3566cdbe78afcffe4497b3529b9e",
+        "voter": "0x24D55b7da98A675BCe37bC89909b5F73A568a1d5",
+        "vp": 0.04450445945500773,
+        "vp_by_strategy": [
+          0.04450445945500773,
+          0
+        ],
+        "vp_state": "final",
+        "created": 1639312329,
+        "proposal": {
+          "id": "0x783cb3d57dd59b2827f6a42967375f06504cc947ebaa3c0e495c7b29ffd47aea"
+        },
+        "choice": {
+          "1": 1,
+          "2": 1,
+          "3": 1,
+          "4": 1,
+          "5": 1
+        },
+        "space": {
+          "id": "ybaby.eth"
+        }
+      },
+      {
+        "id": "0x99ab38ddd2b3f23cd209adb6dd298566111bc8e5e389c56e65223ac730ecc1d4",
+        "voter": "0x176B8c8DD7657A011fcAc694364e69cF011980e9",
+        "vp": 0.7063820961100656,
+        "vp_by_strategy": [
+          0.7063820961100656,
+          0
+        ],
+        "vp_state": "final",
+        "created": 1639299413,
+        "proposal": {
+          "id": "0x783cb3d57dd59b2827f6a42967375f06504cc947ebaa3c0e495c7b29ffd47aea"
+        },
+        "choice": {
+          "5": 1
+        },
+        "space": {
+          "id": "ybaby.eth"
+        }
+      },
+      {
+        "id": "0x50f08be32fefbefd6931e357e58b8b6eae56a2137d2d5ccbae21750fefc087c8",
+        "voter": "0x6d0BBe84eBa47434a0004fc65797B87eF1C913b7",
+        "vp": 3.011466316550575,
+        "vp_by_strategy": [
+          3.011466316550575,
+          0
+        ],
+        "vp_state": "final",
+        "created": 1639297631,
+        "proposal": {
+          "id": "0x783cb3d57dd59b2827f6a42967375f06504cc947ebaa3c0e495c7b29ffd47aea"
+        },
+        "choice": {
+          "1": 2,
+          "3": 1
+        },
+        "space": {
+          "id": "ybaby.eth"
+        }
+      },
+      {
+        "id": "0xae878e56b482a0d00e127cf511e90dd15f0682ee305f7cbe1de23e25277dbf7f",
+        "voter": "0x4B795ba8BCc0f125813D13Da5B65DCaBA4ae4Bd1",
+        "vp": 0.5762021679176734,
+        "vp_by_strategy": [
+          0.5762021679176734,
+          0
+        ],
+        "vp_state": "final",
+        "created": 1639283679,
+        "proposal": {
+          "id": "0x783cb3d57dd59b2827f6a42967375f06504cc947ebaa3c0e495c7b29ffd47aea"
+        },
+        "choice": {
+          "3": 1
+        },
+        "space": {
+          "id": "ybaby.eth"
+        }
+      },
+      {
+        "id": "0x6e105badc9c7c7b9d0ca5733b14fe50c97392e42b944c2bfdf99afe216c90528",
+        "voter": "0xE2777E09E622E4B4fdF2c31385B79d56657A3a4C",
+        "vp": 0.00034175,
+        "vp_by_strategy": [
+          0.00034175,
+          0
+        ],
+        "vp_state": "final",
+        "created": 1639275647,
+        "proposal": {
+          "id": "0x783cb3d57dd59b2827f6a42967375f06504cc947ebaa3c0e495c7b29ffd47aea"
+        },
+        "choice": {
+          "5": 100
+        },
+        "space": {
+          "id": "ybaby.eth"
+        }
+      },
+      {
+        "id": "0x1352f13496e2a359c522204c21bf816584b6c48cb203fe5685f2dedef314a5e0",
+        "voter": "0xC208934E867DFCdC10E5AB58b631D2C3185Edbc9",
+        "vp": 0.001556118630379776,
+        "vp_by_strategy": [
+          0.001556118630379776,
+          0
+        ],
+        "vp_state": "final",
+        "created": 1639275366,
+        "proposal": {
+          "id": "0x783cb3d57dd59b2827f6a42967375f06504cc947ebaa3c0e495c7b29ffd47aea"
+        },
+        "choice": {
+          "5": 1
+        },
+        "space": {
+          "id": "ybaby.eth"
+        }
+      },
+      {
+        "id": "0xef6e37d5ca7c58d465672d1664afc41394265a0762fff19a314d6fdded7e389a",
+        "voter": "0x975CC4Ef1Ae67e1eDecadB7072a93faeD5552Fa1",
+        "vp": 0.00003561,
+        "vp_by_strategy": [
+          0.00003561,
+          0
+        ],
+        "vp_state": "final",
+        "created": 1639267132,
+        "proposal": {
+          "id": "0x783cb3d57dd59b2827f6a42967375f06504cc947ebaa3c0e495c7b29ffd47aea"
+        },
+        "choice": {
+          "5": 100
+        },
+        "space": {
+          "id": "ybaby.eth"
+        }
+      },
+      {
+        "id": "0x719b04adad17988f4c458e1d530e9d3892c5ebba80f08bf3e4735dcf8bbc127c",
+        "voter": "0x591091E309784A6a99652eA3F43a5b9A67cc53e8",
+        "vp": 0.00000911,
+        "vp_by_strategy": [
+          0.00000911,
+          0
+        ],
+        "vp_state": "final",
+        "created": 1639246585,
+        "proposal": {
+          "id": "0x783cb3d57dd59b2827f6a42967375f06504cc947ebaa3c0e495c7b29ffd47aea"
+        },
+        "choice": {
+          "3": 1,
+          "5": 1
+        },
+        "space": {
+          "id": "ybaby.eth"
+        }
+      },
+      {
+        "id": "0x177f5873e4dcc4d5cd2425514d6da07e0f86561058c6fb696a80262a733fde4d",
+        "voter": "0x15708088dd8a113f0C43D0d2060D37e6fcb41b34",
+        "vp": 0.00000912,
+        "vp_by_strategy": [
+          0.00000912,
+          0
+        ],
+        "vp_state": "final",
+        "created": 1639246573,
+        "proposal": {
+          "id": "0x783cb3d57dd59b2827f6a42967375f06504cc947ebaa3c0e495c7b29ffd47aea"
+        },
+        "choice": {
+          "3": 1
+        },
+        "space": {
+          "id": "ybaby.eth"
+        }
+      },
+      {
+        "id": "0x5d986d6fe83066aa27ad4b0cd245d445ffc20c1991d25cbaa698b28a102a7a1a",
+        "voter": "0x2dD6705c047bebF0252b39514eed8C981De18d5d",
+        "vp": 0.00000912,
+        "vp_by_strategy": [
+          0.00000912,
+          0
+        ],
+        "vp_state": "final",
+        "created": 1639246547,
+        "proposal": {
+          "id": "0x783cb3d57dd59b2827f6a42967375f06504cc947ebaa3c0e495c7b29ffd47aea"
+        },
+        "choice": {
+          "5": 1
+        },
+        "space": {
+          "id": "ybaby.eth"
+        }
+      },
+      {
+        "id": "0x17a3501bd4439ee2f27ceba8ae93eac23d12da69638c36fa9fdf21181f516aa4",
+        "voter": "0xa471FfDe4E914131DB746b60c8c209B817D3acc5",
+        "vp": 0.00000912,
+        "vp_by_strategy": [
+          0.00000912,
+          0
+        ],
+        "vp_state": "final",
+        "created": 1639246524,
+        "proposal": {
+          "id": "0x783cb3d57dd59b2827f6a42967375f06504cc947ebaa3c0e495c7b29ffd47aea"
+        },
+        "choice": {
+          "3": 1,
+          "5": 1
+        },
+        "space": {
+          "id": "ybaby.eth"
+        }
+      },
+      {
+        "id": "0x51e790d79c7bb13874de716f1c61128148d1b8de7d2e8ff1a4eb0322a26e3fa8",
+        "voter": "0xceDFDf7444B9508E2be6671eC0D015037D6A7F62",
+        "vp": 0.00000912,
+        "vp_by_strategy": [
+          0.00000912,
+          0
+        ],
+        "vp_state": "final",
+        "created": 1639246466,
+        "proposal": {
+          "id": "0x783cb3d57dd59b2827f6a42967375f06504cc947ebaa3c0e495c7b29ffd47aea"
+        },
+        "choice": {
+          "3": 1,
+          "5": 1
+        },
+        "space": {
+          "id": "ybaby.eth"
+        }
+      },
+      {
+        "id": "0xe784838022735d6660ff5e7b98b2bc658e12b3a2662e8ea9a254999debc20cb5",
+        "voter": "0xEE05f233245C33150fd061F732BD213AEE0eC3c7",
+        "vp": 0.00002915,
+        "vp_by_strategy": [
+          0.00002915,
+          0
+        ],
+        "vp_state": "final",
+        "created": 1639246349,
+        "proposal": {
+          "id": "0x783cb3d57dd59b2827f6a42967375f06504cc947ebaa3c0e495c7b29ffd47aea"
+        },
+        "choice": {
+          "3": 1,
+          "5": 1
+        },
+        "space": {
+          "id": "ybaby.eth"
+        }
+      },
+      {
+        "id": "0x1c4fa2177a19afde06ec79cb49adaf895ad71b92c1a5f7531e2d6a400840d411",
+        "voter": "0xaC9e6fA8Ad5214F365E99eE96227598eA1E4B20c",
+        "vp": 9.74609524420453,
+        "vp_by_strategy": [
+          9.74609524420453,
+          0
+        ],
+        "vp_state": "final",
+        "created": 1639241779,
+        "proposal": {
+          "id": "0x783cb3d57dd59b2827f6a42967375f06504cc947ebaa3c0e495c7b29ffd47aea"
+        },
+        "choice": {
+          "2": 50,
+          "3": 50
+        },
+        "space": {
+          "id": "ybaby.eth"
+        }
+      },
+      {
+        "id": "0xfdaf56b9c920259601b6214e7568da34ce844f5142ff4d2d171b89142f708272",
+        "voter": "0xcd43AaD533e663b726DAe4a08185E9db8eBC9f6F",
+        "vp": 0.011995639669678378,
+        "vp_by_strategy": [
+          0.011995639669678378,
+          0
+        ],
+        "vp_state": "final",
+        "created": 1639238113,
+        "proposal": {
+          "id": "0x783cb3d57dd59b2827f6a42967375f06504cc947ebaa3c0e495c7b29ffd47aea"
+        },
+        "choice": {
+          "1": 33,
+          "2": 33,
+          "3": 33
+        },
+        "space": {
+          "id": "ybaby.eth"
+        }
+      },
+      {
+        "id": "0xc66bdf201436c2813133c36e6fa8d4dfac033504ddf90bd7674257a3df0ddd83",
+        "voter": "0x9623054Ed7D698206611493836DF65a501c56318",
+        "vp": 1.2185186894771327,
+        "vp_by_strategy": [
+          1.2185186894771327,
+          0
+        ],
+        "vp_state": "final",
+        "created": 1639233792,
+        "proposal": {
+          "id": "0x783cb3d57dd59b2827f6a42967375f06504cc947ebaa3c0e495c7b29ffd47aea"
+        },
+        "choice": {
+          "1": 25,
+          "3": 75
+        },
+        "space": {
+          "id": "ybaby.eth"
+        }
+      },
+      {
+        "id": "0x65d74c2263f6393930cf0fb2d3224465486bb0ed158aacb7dc271f91b6fb0a32",
+        "voter": "0x128e5625e15FdBA91d6CcB1AbDFdC62b5d152b4f",
+        "vp": 0.18929743595654952,
+        "vp_by_strategy": [
+          0.18929743595654952,
+          0
+        ],
+        "vp_state": "final",
+        "created": 1639233318,
+        "proposal": {
+          "id": "0x783cb3d57dd59b2827f6a42967375f06504cc947ebaa3c0e495c7b29ffd47aea"
+        },
+        "choice": {
+          "1": 50,
+          "3": 50
+        },
+        "space": {
+          "id": "ybaby.eth"
+        }
+      },
+      {
+        "id": "0x7f47e164d911467ee760a6f7457a4b421d1748f51d138a0fce0471694b42a058",
+        "voter": "0x74BF9Ba8F4b692Bb0d3E06Bf19b74B307331eb10",
+        "vp": 0.002178149880875984,
+        "vp_by_strategy": [
+          0.002178149880875984,
+          0
+        ],
+        "vp_state": "final",
+        "created": 1639226874,
+        "proposal": {
+          "id": "0x783cb3d57dd59b2827f6a42967375f06504cc947ebaa3c0e495c7b29ffd47aea"
+        },
+        "choice": {
+          "1": 1
+        },
+        "space": {
+          "id": "ybaby.eth"
+        }
+      },
+      {
+        "id": "0xe244d6d3f310e5dc06770d2dab6c85278d71ad9cd388c297b41598fd836bd2aa",
+        "voter": "0x7101A39C053954e3E7fD010fDF3F6Ef6bDBCBde0",
+        "vp": 0.0001494,
+        "vp_by_strategy": [
+          0.0001494,
+          0
+        ],
+        "vp_state": "final",
+        "created": 1639223853,
+        "proposal": {
+          "id": "0x783cb3d57dd59b2827f6a42967375f06504cc947ebaa3c0e495c7b29ffd47aea"
+        },
+        "choice": {
+          "5": 1
+        },
+        "space": {
+          "id": "ybaby.eth"
+        }
+      },
+      {
+        "id": "0xc5608f21510edd60b8c9ea216387e27eb5338c834ea35d78d39b16f89c874a36",
+        "voter": "0x6C6C0db237b92C56FD2b2208710D938D0A5f6498",
+        "vp": 0.011780059489867486,
+        "vp_by_strategy": [
+          0.011780059489867486,
+          0
+        ],
+        "vp_state": "final",
+        "created": 1639220574,
+        "proposal": {
+          "id": "0x783cb3d57dd59b2827f6a42967375f06504cc947ebaa3c0e495c7b29ffd47aea"
+        },
+        "choice": {
+          "1": 3,
+          "2": 1,
+          "3": 4,
+          "4": 2
+        },
+        "space": {
+          "id": "ybaby.eth"
+        }
+      },
+      {
+        "id": "0x247c52046402708841bbcc73d671f07a261219d6fab7f33d1ce5558c1126de1b",
+        "voter": "0x221917435383d7A7a6464BF3f6dFD696b78C6355",
+        "vp": 1.3397985892404884,
+        "vp_by_strategy": [
+          1.3397985892404884,
+          0
+        ],
+        "vp_state": "final",
+        "created": 1639216650,
+        "proposal": {
+          "id": "0x783cb3d57dd59b2827f6a42967375f06504cc947ebaa3c0e495c7b29ffd47aea"
+        },
+        "choice": {
+          "2": 1,
+          "5": 1
+        },
+        "space": {
+          "id": "ybaby.eth"
+        }
+      },
+      {
+        "id": "0xee9ee8388afd28d8992551b1018438a6e78b3e9cac5ef2696b654e661ed5ecd0",
+        "voter": "0x1eF6dea4b89E382448f58f4f17adEc374f5E1649",
+        "vp": 0.123,
+        "vp_by_strategy": [
+          0.123,
+          0
+        ],
+        "vp_state": "final",
+        "created": 1639211977,
+        "proposal": {
+          "id": "0x783cb3d57dd59b2827f6a42967375f06504cc947ebaa3c0e495c7b29ffd47aea"
+        },
+        "choice": {
+          "1": 100
+        },
+        "space": {
+          "id": "ybaby.eth"
+        }
+      },
+      {
+        "id": "0xdf6d9d4113b1ae66fa2a973d6f66fb7825e98339e63b6bccebb806c15f4d2964",
+        "voter": "0x8982bfA085fD345bD374fB3f2B95112D98b653e6",
+        "vp": 0.0001,
+        "vp_by_strategy": [
+          0.0001,
+          0
+        ],
+        "vp_state": "final",
+        "created": 1639202056,
+        "proposal": {
+          "id": "0x783cb3d57dd59b2827f6a42967375f06504cc947ebaa3c0e495c7b29ffd47aea"
+        },
+        "choice": {
+          "1": 6
+        },
+        "space": {
+          "id": "ybaby.eth"
+        }
+      },
+      {
+        "id": "0x70002e15478893a1487648695564c9e0b177440047237ba401982b256a2ad08d",
+        "voter": "0xD252617ECbCd6b9bA1A01BFab8c1eA50C543274e",
+        "vp": 0.0001,
+        "vp_by_strategy": [
+          0.0001,
+          0
+        ],
+        "vp_state": "final",
+        "created": 1639202045,
+        "proposal": {
+          "id": "0x783cb3d57dd59b2827f6a42967375f06504cc947ebaa3c0e495c7b29ffd47aea"
+        },
+        "choice": {
+          "1": 6
+        },
+        "space": {
+          "id": "ybaby.eth"
+        }
+      },
+      {
+        "id": "0xbcacbaf5a8d7d1f1becb594ebebd9986982872be655b58755ac875cf93f7181c",
+        "voter": "0x3e3205E834229558933a489356C327a80083405b",
+        "vp": 0.0001,
+        "vp_by_strategy": [
+          0.0001,
+          0
+        ],
+        "vp_state": "final",
+        "created": 1639202032,
+        "proposal": {
+          "id": "0x783cb3d57dd59b2827f6a42967375f06504cc947ebaa3c0e495c7b29ffd47aea"
+        },
+        "choice": {
+          "1": 6
+        },
+        "space": {
+          "id": "ybaby.eth"
+        }
+      },
+      {
+        "id": "0x0dddc06d757837c9f0209bb61fee1939c4b652f9ab0696faef8c29150454219d",
+        "voter": "0x2E651a97403381119e5Cbf7b5eAd774D0154e9Be",
+        "vp": 0.0001,
+        "vp_by_strategy": [
+          0.0001,
+          0
+        ],
+        "vp_state": "final",
+        "created": 1639202019,
+        "proposal": {
+          "id": "0x783cb3d57dd59b2827f6a42967375f06504cc947ebaa3c0e495c7b29ffd47aea"
+        },
+        "choice": {
+          "1": 6
+        },
+        "space": {
+          "id": "ybaby.eth"
+        }
+      },
+      {
+        "id": "0x54ca80489037c759102642581dc7a67dd70686f28f743ec2d35d76dcd72855fa",
+        "voter": "0x44341aEb1729b8e0Fe3df5cc1FEA7fa3A20908ae",
+        "vp": 0.0001,
+        "vp_by_strategy": [
+          0.0001,
+          0
+        ],
+        "vp_state": "final",
+        "created": 1639202005,
+        "proposal": {
+          "id": "0x783cb3d57dd59b2827f6a42967375f06504cc947ebaa3c0e495c7b29ffd47aea"
+        },
+        "choice": {
+          "1": 6
+        },
+        "space": {
+          "id": "ybaby.eth"
+        }
+      },
+      {
+        "id": "0x126bb012039170f50e5990159fa169c2ecbae2cc6fa0110bc772cffa879d8d48",
+        "voter": "0x0874543206DEEf298238E36bea721BA5D9A3e2c5",
+        "vp": 0.0001,
+        "vp_by_strategy": [
+          0.0001,
+          0
+        ],
+        "vp_state": "final",
+        "created": 1639201993,
+        "proposal": {
+          "id": "0x783cb3d57dd59b2827f6a42967375f06504cc947ebaa3c0e495c7b29ffd47aea"
+        },
+        "choice": {
+          "1": 6
+        },
+        "space": {
+          "id": "ybaby.eth"
+        }
+      },
+      {
+        "id": "0xafdd13a3f3911052b252ef9ed7114ea12a9ce199561de3fb0d4730ef8456f8d5",
+        "voter": "0xD02178abB4dcCe893403fC8990b3cB3A57C124F9",
+        "vp": 0.0001,
+        "vp_by_strategy": [
+          0.0001,
+          0
+        ],
+        "vp_state": "final",
+        "created": 1639201959,
+        "proposal": {
+          "id": "0x783cb3d57dd59b2827f6a42967375f06504cc947ebaa3c0e495c7b29ffd47aea"
+        },
+        "choice": {
+          "1": 6
+        },
+        "space": {
+          "id": "ybaby.eth"
+        }
+      },
+      {
+        "id": "0xa95c251d376bbd3127c8e3c8fbe1e0944f5a37166ddd004dbdcd7920c8921838",
+        "voter": "0xb8191ebd7143aFf484f8E4588DE8B3247b59a2cd",
+        "vp": 0.0001,
+        "vp_by_strategy": [
+          0.0001,
+          0
+        ],
+        "vp_state": "final",
+        "created": 1639201934,
+        "proposal": {
+          "id": "0x783cb3d57dd59b2827f6a42967375f06504cc947ebaa3c0e495c7b29ffd47aea"
+        },
+        "choice": {
+          "1": 6
+        },
+        "space": {
+          "id": "ybaby.eth"
+        }
+      },
+      {
+        "id": "0xafac0f21de7289757fcefa42783e284565fc93f8ca921286bcc4174c8a8ca60b",
+        "voter": "0x88F0BF89B67f7c941A4464f919878ED212536863",
+        "vp": 0.00005,
+        "vp_by_strategy": [
+          0.00005,
+          0
+        ],
+        "vp_state": "final",
+        "created": 1639201910,
+        "proposal": {
+          "id": "0x783cb3d57dd59b2827f6a42967375f06504cc947ebaa3c0e495c7b29ffd47aea"
+        },
+        "choice": {
+          "1": 6
+        },
+        "space": {
+          "id": "ybaby.eth"
+        }
+      },
+      {
+        "id": "0x98dd3471eab1236f0a5f65317007bda80e7a0bffe51f8bc871ba13a991c88b0d",
+        "voter": "0x78c0A25CcC21604B3D117100DE7c9523f53236C7",
+        "vp": 0.002418519732345846,
+        "vp_by_strategy": [
+          0.002418519732345846,
+          0
+        ],
+        "vp_state": "final",
+        "created": 1639199304,
+        "proposal": {
+          "id": "0x783cb3d57dd59b2827f6a42967375f06504cc947ebaa3c0e495c7b29ffd47aea"
+        },
+        "choice": {
+          "1": 30,
+          "2": 30,
+          "3": 30,
+          "4": 5,
+          "5": 5
+        },
+        "space": {
+          "id": "ybaby.eth"
+        }
+      },
+      {
+        "id": "QmYLe5N3TzKK9dikGHV4FteW2416fMaxCiSqRaw49713XZ",
+        "voter": "0x6de4DbB57fb1fCd7b2e824CaEC2785C3D4890728",
+        "vp": 0.046573823072393314,
+        "vp_by_strategy": [
+          0.046573823072393314,
+          0
+        ],
+        "vp_state": "final",
+        "created": 1639194914,
+        "proposal": {
+          "id": "0x783cb3d57dd59b2827f6a42967375f06504cc947ebaa3c0e495c7b29ffd47aea"
+        },
+        "choice": {
+          "3": 1
+        },
+        "space": {
+          "id": "ybaby.eth"
+        }
+      },
+      {
+        "id": "0xfc9c0386e430f612e80acd3e59b4b81c513b089aed598dacec4c596793a82502",
+        "voter": "0xF4613132baca9AaBe16A04ED388E9Efcf3972475",
+        "vp": 3.538328777323383,
+        "vp_by_strategy": [
+          3.538328777323383,
+          0
+        ],
+        "vp_state": "final",
+        "created": 1639188399,
+        "proposal": {
+          "id": "0x783cb3d57dd59b2827f6a42967375f06504cc947ebaa3c0e495c7b29ffd47aea"
+        },
+        "choice": {
+          "5": 3
+        },
+        "space": {
+          "id": "ybaby.eth"
+        }
+      },
+      {
+        "id": "0x4e3400eb69253b87da7daff0c661b11d13f276386f34e3c8ce8d5659fe8979ba",
+        "voter": "0xd35Dc42C3812acE3d313f8303114B731D428a0fa",
+        "vp": 1.5481589978214636,
+        "vp_by_strategy": [
+          1.5481589978214636,
+          0
+        ],
+        "vp_state": "final",
+        "created": 1639176437,
+        "proposal": {
+          "id": "0x783cb3d57dd59b2827f6a42967375f06504cc947ebaa3c0e495c7b29ffd47aea"
+        },
+        "choice": {
+          "3": 1
+        },
+        "space": {
+          "id": "ybaby.eth"
+        }
+      },
+      {
+        "id": "0x5c2c6eba921330a88236038e97488d1cc72e362cdb49941905f0564671af038e",
+        "voter": "0x7B9266fBcb7aC6cc179c4D829d51332267e13f65",
+        "vp": 101.01436677122582,
+        "vp_by_strategy": [
+          101.01436677122582,
+          0
+        ],
+        "vp_state": "final",
+        "created": 1639170604,
+        "proposal": {
+          "id": "0x783cb3d57dd59b2827f6a42967375f06504cc947ebaa3c0e495c7b29ffd47aea"
+        },
+        "choice": {
+          "5": 1
+        },
+        "space": {
+          "id": "ybaby.eth"
+        }
+      },
+      {
+        "id": "0x3041dca63c7e2cc7a8d83d66de9ff586d917ca5a193c5ec73f2a9e45aa23e2b6",
+        "voter": "0x6a41278687f2E431b034D209AE3c9DC16840f24F",
+        "vp": 2.5231506732248654,
+        "vp_by_strategy": [
+          2.5231506732248654,
+          0
+        ],
+        "vp_state": "final",
+        "created": 1639170552,
+        "proposal": {
+          "id": "0x783cb3d57dd59b2827f6a42967375f06504cc947ebaa3c0e495c7b29ffd47aea"
+        },
+        "choice": {
+          "5": 1
+        },
+        "space": {
+          "id": "ybaby.eth"
+        }
+      },
+      {
+        "id": "0xc19fd1586b12b85e45357e3dc447c55b13b7a92df16752a19d4c9890b5d3eeaf",
+        "voter": "0xAd47F4dF45DfB752B284DFe4e9Ca85c01e20eAAD",
+        "vp": 2.0190445683489124,
+        "vp_by_strategy": [
+          2.0190445683489124,
+          0
+        ],
+        "vp_state": "final",
+        "created": 1639170375,
+        "proposal": {
+          "id": "0x783cb3d57dd59b2827f6a42967375f06504cc947ebaa3c0e495c7b29ffd47aea"
+        },
+        "choice": {
+          "5": 1
+        },
+        "space": {
+          "id": "ybaby.eth"
+        }
+      },
+      {
+        "id": "0xf9959a49fa96c213151979c76a80f2cdcd3d65d4a91c887c20bd905799712948",
+        "voter": "0x09173487b272311Edda01F45f97911aEB6aBd602",
+        "vp": 5.002696685937194,
+        "vp_by_strategy": [
+          5.002696685937194,
+          0
+        ],
+        "vp_state": "final",
+        "created": 1639170333,
+        "proposal": {
+          "id": "0x783cb3d57dd59b2827f6a42967375f06504cc947ebaa3c0e495c7b29ffd47aea"
+        },
+        "choice": {
+          "5": 1
+        },
+        "space": {
+          "id": "ybaby.eth"
+        }
+      },
+      {
+        "id": "0x4d5498ec644cc4ee98028b664623e48dd514062c4c77f0265694cba4311237d0",
+        "voter": "0x0Cec743b8CE4Ef8802cAc0e5df18a180ed8402A7",
+        "vp": 24.999781039257183,
+        "vp_by_strategy": [
+          24.999781039257183,
+          0
+        ],
+        "vp_state": "final",
+        "created": 1639170298,
+        "proposal": {
+          "id": "0x783cb3d57dd59b2827f6a42967375f06504cc947ebaa3c0e495c7b29ffd47aea"
+        },
+        "choice": {
+          "5": 1
+        },
+        "space": {
+          "id": "ybaby.eth"
+        }
+      },
+      {
+        "id": "0x19806bf0997bb8d46ba0fae62ca50d829db52b00cabe73021dbbcc6470c38c64",
+        "voter": "0x7A1057E6e9093DA9C1D4C1D049609B6889fC4c67",
+        "vp": 234.5041694674801,
+        "vp_by_strategy": [
+          2.7517277385834715,
+          231.75244172889663
+        ],
+        "vp_state": "final",
+        "created": 1639170170,
+        "proposal": {
+          "id": "0x783cb3d57dd59b2827f6a42967375f06504cc947ebaa3c0e495c7b29ffd47aea"
+        },
+        "choice": {
+          "5": 1
+        },
+        "space": {
+          "id": "ybaby.eth"
+        }
+      },
+      {
+        "id": "0x74357f9a3828cf5c468c8860fa3b4215b2aa57cdf1a371f9f868e0c4906e66d0",
+        "voter": "0x33eeCc48943aAeabb5328A25ff28eb85F67945C2",
+        "vp": 1.0099307385188954,
+        "vp_by_strategy": [
+          1.0099307385188954,
+          0
+        ],
+        "vp_state": "final",
+        "created": 1639168202,
+        "proposal": {
+          "id": "0x783cb3d57dd59b2827f6a42967375f06504cc947ebaa3c0e495c7b29ffd47aea"
+        },
+        "choice": {
+          "2": 3,
+          "3": 3,
+          "5": 1
+        },
+        "space": {
+          "id": "ybaby.eth"
+        }
+      },
+      {
+        "id": "0xe73bff07b73edc3458652550105a3004d44de64c8ae464c1dc32ccd94425dbdf",
+        "voter": "0x718FdF375E1930Ba386852E35F5bAFC31df3AE66",
+        "vp": 1.701720870824298,
+        "vp_by_strategy": [
+          1.701720870824298,
+          0
+        ],
+        "vp_state": "final",
+        "created": 1639158906,
+        "proposal": {
+          "id": "0x783cb3d57dd59b2827f6a42967375f06504cc947ebaa3c0e495c7b29ffd47aea"
+        },
+        "choice": {
+          "3": 1
+        },
+        "space": {
+          "id": "ybaby.eth"
+        }
+      },
+      {
+        "id": "0x1c724b8657ddfbdbf5bc0a5e4ab1333126505d5a5b75df3d888463899ad39302",
+        "voter": "0x13cbd624Af484c4C695ff0E1d0B7e125d45F2C76",
+        "vp": 0.15125280022602125,
+        "vp_by_strategy": [
+          0.15125280022602125,
+          0
+        ],
+        "vp_state": "final",
+        "created": 1639155033,
+        "proposal": {
+          "id": "0x783cb3d57dd59b2827f6a42967375f06504cc947ebaa3c0e495c7b29ffd47aea"
+        },
+        "choice": {
+          "1": 1,
+          "2": 1,
+          "3": 1
+        },
+        "space": {
+          "id": "ybaby.eth"
+        }
+      },
+      {
+        "id": "0x24aa7696b236d0172c0feb13bd836d265962684edfff4eb362ed6de5d1188372",
+        "voter": "0x0326de4035F1692A521c9073D95422ffAFAf6253",
+        "vp": 0.00011,
+        "vp_by_strategy": [
+          0.00011,
+          0
+        ],
+        "vp_state": "final",
+        "created": 1639151463,
+        "proposal": {
+          "id": "0x783cb3d57dd59b2827f6a42967375f06504cc947ebaa3c0e495c7b29ffd47aea"
+        },
+        "choice": {
+          "1": 1,
+          "2": 1
+        },
+        "space": {
+          "id": "ybaby.eth"
+        }
+      },
+      {
+        "id": "0x12164ba86204b86d164fc91e905e8078aa4778bd6f5f89912a9b30f970162724",
+        "voter": "0xa4480c1aA3A6fDaC38fc090aB8aD392F7F277b82",
+        "vp": 0.000113,
+        "vp_by_strategy": [
+          0.000113,
+          0
+        ],
+        "vp_state": "final",
+        "created": 1639151397,
+        "proposal": {
+          "id": "0x783cb3d57dd59b2827f6a42967375f06504cc947ebaa3c0e495c7b29ffd47aea"
+        },
+        "choice": {
+          "1": 1,
+          "2": 1
+        },
+        "space": {
+          "id": "ybaby.eth"
+        }
+      },
+      {
+        "id": "0x556e38d3a3c4dd4f887ad7f8712cd334d960799dba64690a552530a9af9bfd72",
+        "voter": "0x4cC212F384493e5D364F2A00B568ec5E5B11fE67",
+        "vp": 0.000113,
+        "vp_by_strategy": [
+          0.000113,
+          0
+        ],
+        "vp_state": "final",
+        "created": 1639151338,
+        "proposal": {
+          "id": "0x783cb3d57dd59b2827f6a42967375f06504cc947ebaa3c0e495c7b29ffd47aea"
+        },
+        "choice": {
+          "1": 1,
+          "2": 1
+        },
+        "space": {
+          "id": "ybaby.eth"
+        }
+      },
+      {
+        "id": "0x143cdd6f736e551ece47425f7d90a975a872197feac05d711a353c65ffc89754",
+        "voter": "0xe3AB56fE7D65f806575908d7f3a5ffa924665191",
+        "vp": 0.000086,
+        "vp_by_strategy": [
+          0.000086,
+          0
+        ],
+        "vp_state": "final",
+        "created": 1639151308,
+        "proposal": {
+          "id": "0x783cb3d57dd59b2827f6a42967375f06504cc947ebaa3c0e495c7b29ffd47aea"
+        },
+        "choice": {
+          "1": 1,
+          "2": 1
+        },
+        "space": {
+          "id": "ybaby.eth"
+        }
+      },
+      {
+        "id": "0x02b86860049573b3a43eb271372e47265676c62f703f335c2647958c0c248330",
+        "voter": "0xa34EaaaC40A7c406026B9Ff3C9D8584Fe6fe09f6",
+        "vp": 0.000099,
+        "vp_by_strategy": [
+          0.000099,
+          0
+        ],
+        "vp_state": "final",
+        "created": 1639151216,
+        "proposal": {
+          "id": "0x783cb3d57dd59b2827f6a42967375f06504cc947ebaa3c0e495c7b29ffd47aea"
+        },
+        "choice": {
+          "1": 1,
+          "2": 1
+        },
+        "space": {
+          "id": "ybaby.eth"
+        }
+      },
+      {
+        "id": "0x9c69e7d4a21fa5c7b754f12e9e128df27e36bafae8e5112063713b28c8095c3a",
+        "voter": "0x0142E4d48EdCc2004f051baDd69E64C110769244",
+        "vp": 0.000111,
+        "vp_by_strategy": [
+          0.000111,
+          0
+        ],
+        "vp_state": "final",
+        "created": 1639151175,
+        "proposal": {
+          "id": "0x783cb3d57dd59b2827f6a42967375f06504cc947ebaa3c0e495c7b29ffd47aea"
+        },
+        "choice": {
+          "1": 1,
+          "2": 1
+        },
+        "space": {
+          "id": "ybaby.eth"
+        }
+      },
+      {
+        "id": "0x0565e72a0ece2b24f36e04547ba37a1a9e82de96dba37a3a2d5d540ddba45d0d",
+        "voter": "0x4f99558f916a4aA101Ada4227b82943c9AA840Eb",
+        "vp": 0.000113,
+        "vp_by_strategy": [
+          0.000113,
+          0
+        ],
+        "vp_state": "final",
+        "created": 1639151139,
+        "proposal": {
+          "id": "0x783cb3d57dd59b2827f6a42967375f06504cc947ebaa3c0e495c7b29ffd47aea"
+        },
+        "choice": {
+          "1": 1,
+          "2": 1
+        },
+        "space": {
+          "id": "ybaby.eth"
+        }
+      },
+      {
+        "id": "0x16b635163ac1733a697ab2064f352578064b785f356b1f4ba0adc2390e1190af",
+        "voter": "0x0ccd775dad89b63A30D4357C8bBA474a50Bd5CAe",
+        "vp": 0.000109,
+        "vp_by_strategy": [
+          0.000109,
+          0
+        ],
+        "vp_state": "final",
+        "created": 1639151043,
+        "proposal": {
+          "id": "0x783cb3d57dd59b2827f6a42967375f06504cc947ebaa3c0e495c7b29ffd47aea"
+        },
+        "choice": {
+          "1": 1,
+          "2": 1
+        },
+        "space": {
+          "id": "ybaby.eth"
+        }
+      },
+      {
+        "id": "0x7f9d3ed55ab12865890c511bf0f963851d365fb3b653745e8fd23ea8a3337327",
+        "voter": "0x9AeA7bB3BA531B7E8d7519a4639F6346d09cDD6D",
+        "vp": 0.000102,
+        "vp_by_strategy": [
+          0.000102,
+          0
+        ],
+        "vp_state": "final",
+        "created": 1639151005,
+        "proposal": {
+          "id": "0x783cb3d57dd59b2827f6a42967375f06504cc947ebaa3c0e495c7b29ffd47aea"
+        },
+        "choice": {
+          "1": 1,
+          "2": 1
+        },
+        "space": {
+          "id": "ybaby.eth"
+        }
+      },
+      {
+        "id": "0x8b97c93bec3b5637469e12adf2ab9731866166c202f03b134e188456b5a4ee85",
+        "voter": "0x39FcE8625Fc1D8DCD1E8882dcAEd4044190d6072",
+        "vp": 0.000113,
+        "vp_by_strategy": [
+          0.000113,
+          0
+        ],
+        "vp_state": "final",
+        "created": 1639150963,
+        "proposal": {
+          "id": "0x783cb3d57dd59b2827f6a42967375f06504cc947ebaa3c0e495c7b29ffd47aea"
+        },
+        "choice": {
+          "1": 1,
+          "2": 1
+        },
+        "space": {
+          "id": "ybaby.eth"
+        }
+      },
+      {
+        "id": "0x414befcac4db5cd354c56aaba0c7f445e9ad6dcfe16d46c1aae60aef90ad8320",
+        "voter": "0x57C81EF0dd300c3bbbc70Ca4dEcd444558f2a620",
+        "vp": 0.009984099996361354,
+        "vp_by_strategy": [
+          0.009984099996361354,
+          0
+        ],
+        "vp_state": "final",
+        "created": 1639150917,
+        "proposal": {
+          "id": "0x783cb3d57dd59b2827f6a42967375f06504cc947ebaa3c0e495c7b29ffd47aea"
+        },
+        "choice": {
+          "1": 1,
+          "2": 1
+        },
+        "space": {
+          "id": "ybaby.eth"
+        }
+      },
+      {
+        "id": "0x07d854881b41698aafccfc9068ac549c4f27b4b7606b0d4757ab82aa3c3df89f",
+        "voter": "0x0d21155d93A9d4e0128a016c1a263813803f9443",
+        "vp": 0.000108,
+        "vp_by_strategy": [
+          0.000108,
+          0
+        ],
+        "vp_state": "final",
+        "created": 1639150885,
+        "proposal": {
+          "id": "0x783cb3d57dd59b2827f6a42967375f06504cc947ebaa3c0e495c7b29ffd47aea"
+        },
+        "choice": {
+          "1": 1,
+          "2": 1
+        },
+        "space": {
+          "id": "ybaby.eth"
+        }
+      },
+      {
+        "id": "0x39844e71d02f50f02182673a40b3c53a8d54a36bd50299960765fab883dcac8d",
+        "voter": "0x367B5cBcb5f13290BbDa7E7924A15BE2D15Ab98F",
+        "vp": 0.000114,
+        "vp_by_strategy": [
+          0.000114,
+          0
+        ],
+        "vp_state": "final",
+        "created": 1639150865,
+        "proposal": {
+          "id": "0x783cb3d57dd59b2827f6a42967375f06504cc947ebaa3c0e495c7b29ffd47aea"
+        },
+        "choice": {
+          "1": 1,
+          "2": 1
+        },
+        "space": {
+          "id": "ybaby.eth"
+        }
+      },
+      {
+        "id": "0x9787b30a1534b37e2d36af71298ceae383fdd7492ec107b4b062e1630e2927cf",
+        "voter": "0x3C4eDD90fFc89daA3745725D3F7425e576516441",
+        "vp": 0.000113,
+        "vp_by_strategy": [
+          0.000113,
+          0
+        ],
+        "vp_state": "final",
+        "created": 1639150822,
+        "proposal": {
+          "id": "0x783cb3d57dd59b2827f6a42967375f06504cc947ebaa3c0e495c7b29ffd47aea"
+        },
+        "choice": {
+          "1": 1,
+          "2": 1
+        },
+        "space": {
+          "id": "ybaby.eth"
+        }
+      },
+      {
+        "id": "0x5892e2557c344f5b8863a1b863238b3c366a306f62ac19a616f0ec51cb4883de",
+        "voter": "0xA8310cEb694022d57676F6dBba0C7a3347F66533",
+        "vp": 0.000113,
+        "vp_by_strategy": [
+          0.000113,
+          0
+        ],
+        "vp_state": "final",
+        "created": 1639150788,
+        "proposal": {
+          "id": "0x783cb3d57dd59b2827f6a42967375f06504cc947ebaa3c0e495c7b29ffd47aea"
+        },
+        "choice": {
+          "1": 1,
+          "2": 1
+        },
+        "space": {
+          "id": "ybaby.eth"
+        }
+      },
+      {
+        "id": "0xe4dc8fbf9f3e7d6937828eb30683befa8f278d4e8fa8d5e424914bc778189fe4",
+        "voter": "0xd0E0DE2a6bF1964E81FbfDDA56934E52eA3D6682",
+        "vp": 0.000113,
+        "vp_by_strategy": [
+          0.000113,
+          0
+        ],
+        "vp_state": "final",
+        "created": 1639150744,
+        "proposal": {
+          "id": "0x783cb3d57dd59b2827f6a42967375f06504cc947ebaa3c0e495c7b29ffd47aea"
+        },
+        "choice": {
+          "1": 1,
+          "2": 1
+        },
+        "space": {
+          "id": "ybaby.eth"
+        }
+      },
+      {
+        "id": "0x68f31dd6a8d6557aad39b0fe821f29ecae37dd2f0031495348be606d6f24fcdc",
+        "voter": "0x74282E758E99de34a43A5A089e5aE5bd7D39Ca3D",
+        "vp": 0.000112,
+        "vp_by_strategy": [
+          0.000112,
+          0
+        ],
+        "vp_state": "final",
+        "created": 1639150711,
+        "proposal": {
+          "id": "0x783cb3d57dd59b2827f6a42967375f06504cc947ebaa3c0e495c7b29ffd47aea"
+        },
+        "choice": {
+          "1": 1,
+          "2": 1
+        },
+        "space": {
+          "id": "ybaby.eth"
+        }
+      },
+      {
+        "id": "0xcb4ae458e95daf1cb0c137916c910685759ceb3ebe125b2c02a4d515839225f8",
+        "voter": "0x88536D41C7C09b1d3416F929B93544b96fB1BCa3",
+        "vp": 0.000113,
+        "vp_by_strategy": [
+          0.000113,
+          0
+        ],
+        "vp_state": "final",
+        "created": 1639150677,
+        "proposal": {
+          "id": "0x783cb3d57dd59b2827f6a42967375f06504cc947ebaa3c0e495c7b29ffd47aea"
+        },
+        "choice": {
+          "1": 1,
+          "2": 1
+        },
+        "space": {
+          "id": "ybaby.eth"
+        }
+      },
+      {
+        "id": "0x4786ac175b1028e811112ccf8e5b75d061d8a732c9ef3b480c199e04fd525675",
+        "voter": "0xE1CBb9D24986E5ac938BEe59e3B710907d764159",
+        "vp": 0.000096,
+        "vp_by_strategy": [
+          0.000096,
+          0
+        ],
+        "vp_state": "final",
+        "created": 1639150659,
+        "proposal": {
+          "id": "0x783cb3d57dd59b2827f6a42967375f06504cc947ebaa3c0e495c7b29ffd47aea"
+        },
+        "choice": {
+          "1": 1,
+          "2": 1
+        },
+        "space": {
+          "id": "ybaby.eth"
+        }
+      },
+      {
+        "id": "0x0c940ae4e5389cf85d6e10785818e69e5308e2fc5040f34ae9d14413070996f4",
+        "voter": "0xB0E45C07c53360632153Bace9cAb46B21771F6D2",
+        "vp": 0.000092,
+        "vp_by_strategy": [
+          0.000092,
+          0
+        ],
+        "vp_state": "final",
+        "created": 1639150618,
+        "proposal": {
+          "id": "0x783cb3d57dd59b2827f6a42967375f06504cc947ebaa3c0e495c7b29ffd47aea"
+        },
+        "choice": {
+          "1": 1,
+          "2": 1
+        },
+        "space": {
+          "id": "ybaby.eth"
+        }
+      },
+      {
+        "id": "0xac3668e91f6f993e6a9bf040f78e198a2e95db42c3c1f1df99b8277bdd820802",
+        "voter": "0x74b496154e204b633FAcAF3087A2878b0aDf1C85",
+        "vp": 0.000113,
+        "vp_by_strategy": [
+          0.000113,
+          0
+        ],
+        "vp_state": "final",
+        "created": 1639150571,
+        "proposal": {
+          "id": "0x783cb3d57dd59b2827f6a42967375f06504cc947ebaa3c0e495c7b29ffd47aea"
+        },
+        "choice": {
+          "1": 1,
+          "2": 1
+        },
+        "space": {
+          "id": "ybaby.eth"
+        }
+      },
+      {
+        "id": "0x55cf98fd3b6333529fbd0bf1a91063a8e00a08ad68b95bf364a6453cb9eca5a9",
+        "voter": "0x82F2eA8c166b46ab2Ea4411AdFFCcf15AA1eB17e",
+        "vp": 0.00011,
+        "vp_by_strategy": [
+          0.00011,
+          0
+        ],
+        "vp_state": "final",
+        "created": 1639150538,
+        "proposal": {
+          "id": "0x783cb3d57dd59b2827f6a42967375f06504cc947ebaa3c0e495c7b29ffd47aea"
+        },
+        "choice": {
+          "1": 1,
+          "2": 1
+        },
+        "space": {
+          "id": "ybaby.eth"
+        }
+      },
+      {
+        "id": "0x00562f2ca74518078f8b11159aee4293346729ccc5fcec88622f86ebfd37c22a",
+        "voter": "0xd654720a619449AB7672c94B33D45F86566A5779",
+        "vp": 0.001013,
+        "vp_by_strategy": [
+          0.001013,
+          0
+        ],
+        "vp_state": "final",
+        "created": 1639150507,
+        "proposal": {
+          "id": "0x783cb3d57dd59b2827f6a42967375f06504cc947ebaa3c0e495c7b29ffd47aea"
+        },
+        "choice": {
+          "1": 1,
+          "2": 1
+        },
+        "space": {
+          "id": "ybaby.eth"
+        }
+      },
+      {
+        "id": "0xedc75df747f9956868da201c605f8a607d573258954d305b7facaa7b342c1d80",
+        "voter": "0x477d36fbD61389A990C4cA66891FDD579C61D0d2",
+        "vp": 0.000113,
+        "vp_by_strategy": [
+          0.000113,
+          0
+        ],
+        "vp_state": "final",
+        "created": 1639150484,
+        "proposal": {
+          "id": "0x783cb3d57dd59b2827f6a42967375f06504cc947ebaa3c0e495c7b29ffd47aea"
+        },
+        "choice": {
+          "1": 1,
+          "2": 1
+        },
+        "space": {
+          "id": "ybaby.eth"
+        }
+      },
+      {
+        "id": "0xdfe0ab50165a36f7aa487bac43d9936ff0d4c33f4975fad7a34ee4b83c882c7e",
+        "voter": "0x3f142e764112CFc72D03bB801037e72E610e0900",
+        "vp": 0.0001,
+        "vp_by_strategy": [
+          0.0001,
+          0
+        ],
+        "vp_state": "final",
+        "created": 1639150433,
+        "proposal": {
+          "id": "0x783cb3d57dd59b2827f6a42967375f06504cc947ebaa3c0e495c7b29ffd47aea"
+        },
+        "choice": {
+          "1": 1,
+          "2": 1
+        },
+        "space": {
+          "id": "ybaby.eth"
+        }
+      },
+      {
+        "id": "0xffca27c581602e6d07610645a757faf8039f8b02f3c60c8d8eca0cd70902efb5",
+        "voter": "0xaD581B2e2c97EA2e896861Bc6e97921693BaEDDC",
+        "vp": 0.000113,
+        "vp_by_strategy": [
+          0.000113,
+          0
+        ],
+        "vp_state": "final",
+        "created": 1639150407,
+        "proposal": {
+          "id": "0x783cb3d57dd59b2827f6a42967375f06504cc947ebaa3c0e495c7b29ffd47aea"
+        },
+        "choice": {
+          "1": 1,
+          "2": 1
+        },
+        "space": {
+          "id": "ybaby.eth"
+        }
+      },
+      {
+        "id": "0x51f9700d0618667087adb313c7a78b18cf3382b128bca0a14d88cc3f5d530466",
+        "voter": "0xC3e98fA53d6bD59374F221EE639Bd073f0EAA6E1",
+        "vp": 0.000113,
+        "vp_by_strategy": [
+          0.000113,
+          0
+        ],
+        "vp_state": "final",
+        "created": 1639150344,
+        "proposal": {
+          "id": "0x783cb3d57dd59b2827f6a42967375f06504cc947ebaa3c0e495c7b29ffd47aea"
+        },
+        "choice": {
+          "1": 1,
+          "2": 1
+        },
+        "space": {
+          "id": "ybaby.eth"
+        }
+      },
+      {
+        "id": "0xf504b3fbcb92e47b0eb7964949ecc14a1b9f9aacae47afd4f2d85ba81d903c2d",
+        "voter": "0xeD9D357Ba42Cb94744EBd0054feC169a11A874E8",
+        "vp": 0.000113,
+        "vp_by_strategy": [
+          0.000113,
+          0
+        ],
+        "vp_state": "final",
+        "created": 1639150315,
+        "proposal": {
+          "id": "0x783cb3d57dd59b2827f6a42967375f06504cc947ebaa3c0e495c7b29ffd47aea"
+        },
+        "choice": {
+          "1": 1,
+          "2": 1
+        },
+        "space": {
+          "id": "ybaby.eth"
+        }
+      },
+      {
+        "id": "0xeb8463048017bdbf5a178d505b988d0b107898bcafdae3a1a0410853e4d56b5c",
+        "voter": "0x5776f64494b9aeb7e31C70c11f373d3848533A6B",
+        "vp": 0.00011,
+        "vp_by_strategy": [
+          0.00011,
+          0
+        ],
+        "vp_state": "final",
+        "created": 1639150286,
+        "proposal": {
+          "id": "0x783cb3d57dd59b2827f6a42967375f06504cc947ebaa3c0e495c7b29ffd47aea"
+        },
+        "choice": {
+          "1": 1,
+          "2": 1
+        },
+        "space": {
+          "id": "ybaby.eth"
+        }
+      },
+      {
+        "id": "0x4572f5b0d9a2c14d68673d590cc9ae70fc20ef612580556430011afdd09b20ee",
+        "voter": "0x130EEA4d0d827afb868e3C8B65021464BA4638ce",
+        "vp": 0.000107,
+        "vp_by_strategy": [
+          0.000107,
+          0
+        ],
+        "vp_state": "final",
+        "created": 1639150253,
+        "proposal": {
+          "id": "0x783cb3d57dd59b2827f6a42967375f06504cc947ebaa3c0e495c7b29ffd47aea"
+        },
+        "choice": {
+          "1": 1,
+          "2": 1
+        },
+        "space": {
+          "id": "ybaby.eth"
+        }
+      },
+      {
+        "id": "0xfc6e6de4dd1ed310bb7568219c6d817e80f88be693ae14887f0b10d845b7fe5e",
+        "voter": "0xD32879C364F5F8CC019c1e7bB99de5280f1753bD",
+        "vp": 0.000098,
+        "vp_by_strategy": [
+          0.000098,
+          0
+        ],
+        "vp_state": "final",
+        "created": 1639150225,
+        "proposal": {
+          "id": "0x783cb3d57dd59b2827f6a42967375f06504cc947ebaa3c0e495c7b29ffd47aea"
+        },
+        "choice": {
+          "1": 1,
+          "2": 1
+        },
+        "space": {
+          "id": "ybaby.eth"
+        }
+      },
+      {
+        "id": "0x72cf25f667a5ec03b16b195e3243fb77d84f5e05b021973df769af6294b68197",
+        "voter": "0x1FdB5C1D4512c050eb84969767f63348F4ac8894",
+        "vp": 0.000105,
+        "vp_by_strategy": [
+          0.000105,
+          0
+        ],
+        "vp_state": "final",
+        "created": 1639150201,
+        "proposal": {
+          "id": "0x783cb3d57dd59b2827f6a42967375f06504cc947ebaa3c0e495c7b29ffd47aea"
+        },
+        "choice": {
+          "1": 1,
+          "2": 1
+        },
+        "space": {
+          "id": "ybaby.eth"
+        }
+      },
+      {
+        "id": "0x8d17d2a24c04d58f2c847636890f5ca42d22af7b3c349afd09dda9c98c151f4e",
+        "voter": "0x736cE57Dd85f6cd17f51Bb8814c7fFE648B17580",
+        "vp": 0.001122852174992005,
+        "vp_by_strategy": [
+          0.001122852174992005,
+          0
+        ],
+        "vp_state": "final",
+        "created": 1639150170,
+        "proposal": {
+          "id": "0x783cb3d57dd59b2827f6a42967375f06504cc947ebaa3c0e495c7b29ffd47aea"
+        },
+        "choice": {
+          "1": 1,
+          "2": 1
+        },
+        "space": {
+          "id": "ybaby.eth"
+        }
+      },
+      {
+        "id": "0x755a28049f5a682a5601f70068a954ef59fbd74aa096ce2853255c1eb5e2c8a6",
+        "voter": "0x2bcA442060bf4dba593ED3E648044E0d6A8bf968",
+        "vp": 0.000113,
+        "vp_by_strategy": [
+          0.000113,
+          0
+        ],
+        "vp_state": "final",
+        "created": 1639150135,
+        "proposal": {
+          "id": "0x783cb3d57dd59b2827f6a42967375f06504cc947ebaa3c0e495c7b29ffd47aea"
+        },
+        "choice": {
+          "1": 1,
+          "2": 1
+        },
+        "space": {
+          "id": "ybaby.eth"
+        }
+      },
+      {
+        "id": "0x74b846b1d988770a7b29b0f8f676b46f3fd0cda72c530b9f6cabc0aba4515a52",
+        "voter": "0x32039D8fBE362E04C089f212CCB93C437482358A",
+        "vp": 0.000113,
+        "vp_by_strategy": [
+          0.000113,
+          0
+        ],
+        "vp_state": "final",
+        "created": 1639150061,
+        "proposal": {
+          "id": "0x783cb3d57dd59b2827f6a42967375f06504cc947ebaa3c0e495c7b29ffd47aea"
+        },
+        "choice": {
+          "2": 1
+        },
+        "space": {
+          "id": "ybaby.eth"
+        }
+      },
+      {
+        "id": "0x95459fbd1611b77e347384599363d92aa4f948b1b3d5857a9940da44d58d66a1",
+        "voter": "0xF006225A1D33Aa2c4c1DA94e5A37aFe5AA7F281F",
+        "vp": 0.000113,
+        "vp_by_strategy": [
+          0.000113,
+          0
+        ],
+        "vp_state": "final",
+        "created": 1639150022,
+        "proposal": {
+          "id": "0x783cb3d57dd59b2827f6a42967375f06504cc947ebaa3c0e495c7b29ffd47aea"
+        },
+        "choice": {
+          "2": 1
+        },
+        "space": {
+          "id": "ybaby.eth"
+        }
+      },
+      {
+        "id": "0x9eb1f53654599a1d42d7cbb6c781125c7bc4d32f250ca7d27e37a234c436c561",
+        "voter": "0xab6F88671BE688FF648d8CD29f527840D96B5EC5",
+        "vp": 0.0001,
+        "vp_by_strategy": [
+          0.0001,
+          0
+        ],
+        "vp_state": "final",
+        "created": 1639150004,
+        "proposal": {
+          "id": "0x783cb3d57dd59b2827f6a42967375f06504cc947ebaa3c0e495c7b29ffd47aea"
+        },
+        "choice": {
+          "2": 1
+        },
+        "space": {
+          "id": "ybaby.eth"
+        }
+      },
+      {
+        "id": "0x7470ad9b54dc85abcb50514ce9942617a407b5b0db3fab1478d0494afed8dccc",
+        "voter": "0xb0f4b88d29667607E88198a12E6B19700b08AbF1",
+        "vp": 0.31757728640099053,
+        "vp_by_strategy": [
+          0.31757728640099053,
+          0
+        ],
+        "vp_state": "final",
+        "created": 1639149725,
+        "proposal": {
+          "id": "0x783cb3d57dd59b2827f6a42967375f06504cc947ebaa3c0e495c7b29ffd47aea"
+        },
+        "choice": {
+          "3": 1
+        },
+        "space": {
+          "id": "ybaby.eth"
+        }
+      },
+      {
+        "id": "0xd39becc617e9f42078fa72a7b0bf61544804adb22aa9a2c571ac7775e324aaf8",
+        "voter": "0xe868B555eD1bEBC91b3e0ec08Af7C6f48E802EDF",
+        "vp": 0.7161499190745481,
+        "vp_by_strategy": [
+          0.7161499190745481,
+          0
+        ],
+        "vp_state": "final",
+        "created": 1639145696,
+        "proposal": {
+          "id": "0x783cb3d57dd59b2827f6a42967375f06504cc947ebaa3c0e495c7b29ffd47aea"
+        },
+        "choice": {
+          "3": 1
+        },
+        "space": {
+          "id": "ybaby.eth"
+        }
+      },
+      {
+        "id": "0x8f599e9c170967893e95bbd4c5db03ee0151434b0df7ff4c55f2059bad0eb6c6",
+        "voter": "0xa3Db422fEcA34aEa3227A6533D9910d1e4aa110f",
+        "vp": 0.00008766,
+        "vp_by_strategy": [
+          0.00008766,
+          0
+        ],
+        "vp_state": "final",
+        "created": 1639145590,
+        "proposal": {
+          "id": "0x783cb3d57dd59b2827f6a42967375f06504cc947ebaa3c0e495c7b29ffd47aea"
+        },
+        "choice": {
+          "3": 1
+        },
+        "space": {
+          "id": "ybaby.eth"
+        }
+      },
+      {
+        "id": "0x27d7d1635f800cf0584b6fb0e83c99180c0f6b599284c5bb67fb7efc1c8ce8aa",
+        "voter": "0x679B4172E1698579d562D1d8b4774968305b80b2",
+        "vp": 0.0001,
+        "vp_by_strategy": [
+          0.0001,
+          0
+        ],
+        "vp_state": "final",
+        "created": 1639144085,
+        "proposal": {
+          "id": "0x783cb3d57dd59b2827f6a42967375f06504cc947ebaa3c0e495c7b29ffd47aea"
+        },
+        "choice": {
+          "1": 1
+        },
+        "space": {
+          "id": "ybaby.eth"
+        }
+      },
+      {
+        "id": "0x3a590a6325d3237a448854a85bb937678a2a5f186c27ed387246a15f031ca0bd",
+        "voter": "0xa858a6DAdd26D92Ce9D0009c051672D466f694C2",
+        "vp": 0.00000631817595027,
+        "vp_by_strategy": [
+          0.00000631817595027,
+          0
+        ],
+        "vp_state": "final",
+        "created": 1639142913,
+        "proposal": {
+          "id": "0x783cb3d57dd59b2827f6a42967375f06504cc947ebaa3c0e495c7b29ffd47aea"
+        },
+        "choice": {
+          "1": 1
+        },
+        "space": {
+          "id": "ybaby.eth"
+        }
+      },
+      {
+        "id": "0xfd5800d04014a4e2ab39a43f8de65f9bfd2470323ff5d19f5ac00cde6b452c2f",
+        "voter": "0x5D97f3a8Bb293f9561892091779ed6af0DF209c1",
+        "vp": 1.7294242326982587,
+        "vp_by_strategy": [
+          1.7294242326982587,
+          0
+        ],
+        "vp_state": "final",
+        "created": 1639141277,
+        "proposal": {
+          "id": "0x783cb3d57dd59b2827f6a42967375f06504cc947ebaa3c0e495c7b29ffd47aea"
+        },
+        "choice": {
+          "3": 1
+        },
+        "space": {
+          "id": "ybaby.eth"
+        }
+      },
+      {
+        "id": "0x179f1bf270dbf07144261fb6d1f2d8273b2877d4a1730df1dafe8258697b72e4",
+        "voter": "0x1e32f081f0455566e9e5d007e4e6bfBe31aBFE2F",
+        "vp": 0.0959327198493759,
+        "vp_by_strategy": [
+          0.0959327198493759,
+          0
+        ],
+        "vp_state": "final",
+        "created": 1639140234,
+        "proposal": {
+          "id": "0x783cb3d57dd59b2827f6a42967375f06504cc947ebaa3c0e495c7b29ffd47aea"
+        },
+        "choice": {
+          "3": 1
+        },
+        "space": {
+          "id": "ybaby.eth"
+        }
+      },
+      {
+        "id": "0xedbf2bc76accdf1b06f9358bfc9f1592b86be67785cc4c4b2fdedf4fe2e1d3ce",
+        "voter": "0x733cdA6dd2E2Fe13F702b5968eb5400B22590a6e",
+        "vp": 0.07019090499163409,
+        "vp_by_strategy": [
+          0.07019090499163409,
+          0
+        ],
+        "vp_state": "final",
+        "created": 1639138670,
+        "proposal": {
+          "id": "0x783cb3d57dd59b2827f6a42967375f06504cc947ebaa3c0e495c7b29ffd47aea"
+        },
+        "choice": {
+          "1": 3,
+          "2": 1,
+          "3": 1
+        },
+        "space": {
+          "id": "ybaby.eth"
+        }
+      },
+      {
+        "id": "0x397c27c878eecdb4acc54ef8595ed362df7b1fab2d21c84ae05a75edd3904f84",
+        "voter": "0x73165a7BF621F466C63F6A0c8F08e969772c2a6D",
+        "vp": 0.00003696,
+        "vp_by_strategy": [
+          0.00003696,
+          0
+        ],
+        "vp_state": "final",
+        "created": 1639138274,
+        "proposal": {
+          "id": "0x783cb3d57dd59b2827f6a42967375f06504cc947ebaa3c0e495c7b29ffd47aea"
+        },
+        "choice": {
+          "3": 1
+        },
+        "space": {
+          "id": "ybaby.eth"
+        }
+      },
+      {
+        "id": "0xc085e62e99123400aa5543589d1a2a0e9e3fb90afbff2c73dbb46882c5ea0282",
+        "voter": "0xA5aa7454aB373a8D1287a232f3ceE46149fbdE0e",
+        "vp": 4.744468579915388,
+        "vp_by_strategy": [
+          4.744468579915388,
+          0
+        ],
+        "vp_state": "final",
+        "created": 1639136705,
+        "proposal": {
+          "id": "0x783cb3d57dd59b2827f6a42967375f06504cc947ebaa3c0e495c7b29ffd47aea"
+        },
+        "choice": {
+          "1": 30,
+          "3": 60,
+          "4": 10
+        },
+        "space": {
+          "id": "ybaby.eth"
+        }
+      },
+      {
+        "id": "0xb7ac61db80f340cce226c81dc259076ca7ad92a098752513abd9eaef65156732",
+        "voter": "0xD3474BD2f558B12e83810EC7d8aF14f2d1D08137",
+        "vp": 3.1288918367178025,
+        "vp_by_strategy": [
+          3.1288918367178025,
+          0
+        ],
+        "vp_state": "final",
+        "created": 1639135999,
+        "proposal": {
+          "id": "0x783cb3d57dd59b2827f6a42967375f06504cc947ebaa3c0e495c7b29ffd47aea"
+        },
+        "choice": {
+          "1": 1,
+          "2": 1
+        },
+        "space": {
+          "id": "ybaby.eth"
+        }
+      },
+      {
+        "id": "0x03c90f7a0a98cecf26a5e136a25df4980acefab23b7ef2a3213ddb2bd3aadc6f",
+        "voter": "0x854F1269b659A727a2268AB86FF77CFB30BfB358",
+        "vp": 6.087658180942595,
+        "vp_by_strategy": [
+          6.087658180942595,
+          0
+        ],
+        "vp_state": "final",
+        "created": 1639135510,
+        "proposal": {
+          "id": "0x783cb3d57dd59b2827f6a42967375f06504cc947ebaa3c0e495c7b29ffd47aea"
+        },
+        "choice": {
+          "3": 1
+        },
+        "space": {
+          "id": "ybaby.eth"
+        }
+      },
+      {
+        "id": "0xa287caa078c6dd22fc5df9666639fbe761bfae5d51e2b107cf214d8cb942b49d",
+        "voter": "0x83C9440dc34DA00c47A0d4dC2b598d7BDB1b53F7",
+        "vp": 0.002134670000940108,
+        "vp_by_strategy": [
+          0.002134670000940108,
+          0
+        ],
+        "vp_state": "final",
+        "created": 1639130369,
+        "proposal": {
+          "id": "0x783cb3d57dd59b2827f6a42967375f06504cc947ebaa3c0e495c7b29ffd47aea"
+        },
+        "choice": {
+          "3": 1
+        },
+        "space": {
+          "id": "ybaby.eth"
+        }
+      },
+      {
+        "id": "0x9d3311208997cf4728b3239ec863bdb824fef953bca2ea945746eaf58e1b1ac3",
+        "voter": "0xbb2c887E8BA8d21B7d9420998149F4D1efba73d1",
+        "vp": 0.2942272455906059,
+        "vp_by_strategy": [
+          0.2942272455906059,
+          0
+        ],
+        "vp_state": "final",
+        "created": 1639127092,
+        "proposal": {
+          "id": "0x783cb3d57dd59b2827f6a42967375f06504cc947ebaa3c0e495c7b29ffd47aea"
+        },
+        "choice": {
+          "3": 1
+        },
+        "space": {
+          "id": "ybaby.eth"
+        }
+      },
+      {
+        "id": "0x000bdca8ee1313a3677583ac19b239428304909722f673d7ec383df528562d0f",
+        "voter": "0x9a26aac2b6fEc5DD0463fD5C088a05049B835Edb",
+        "vp": 0.20055350425675927,
+        "vp_by_strategy": [
+          0.20055350425675927,
+          0
+        ],
+        "vp_state": "final",
+        "created": 1639120970,
+        "proposal": {
+          "id": "0x783cb3d57dd59b2827f6a42967375f06504cc947ebaa3c0e495c7b29ffd47aea"
+        },
+        "choice": {
+          "1": 24,
+          "3": 8
+        },
+        "space": {
+          "id": "ybaby.eth"
+        }
+      },
+      {
+        "id": "0x9b79aa4efb2e6699bc22fcd67853538f94bc1a82b0fa88885661a0f7723c3ae1",
+        "voter": "0xBfD7F0DB71253edaa59743163D3eECfa27a01A6e",
+        "vp": 1.0259766521449463,
+        "vp_by_strategy": [
+          1.0259766521449465,
+          0
+        ],
+        "vp_state": "final",
+        "created": 1639120891,
+        "proposal": {
+          "id": "0x783cb3d57dd59b2827f6a42967375f06504cc947ebaa3c0e495c7b29ffd47aea"
+        },
+        "choice": {
+          "3": 1
+        },
+        "space": {
+          "id": "ybaby.eth"
+        }
+      },
+      {
+        "id": "0x8a9b1c0627a1c8f6787c0ec57a5b6fd2ad012c21b964da1b21ca9906e44c539d",
+        "voter": "0xb736828404596f5a69c828996397BA629EFb9cdb",
+        "vp": 0.013937230888958409,
+        "vp_by_strategy": [
+          0.013937230888958409,
+          0
+        ],
+        "vp_state": "final",
+        "created": 1639118533,
+        "proposal": {
+          "id": "0x783cb3d57dd59b2827f6a42967375f06504cc947ebaa3c0e495c7b29ffd47aea"
+        },
+        "choice": {
+          "1": 1
+        },
+        "space": {
+          "id": "ybaby.eth"
+        }
+      },
+      {
+        "id": "0x57982132754f362d9dc7aa7a2f1c6e3ac171cc748cdc6fc5c8390ab007dc3d7a",
+        "voter": "0xE53D3f2B99FE0Ed6C05977bC0547127836f0D78d",
+        "vp": 0.020562959999999998,
+        "vp_by_strategy": [
+          0.02056296,
+          0
+        ],
+        "vp_state": "final",
+        "created": 1639116673,
+        "proposal": {
+          "id": "0x783cb3d57dd59b2827f6a42967375f06504cc947ebaa3c0e495c7b29ffd47aea"
+        },
+        "choice": {
+          "3": 1
+        },
+        "space": {
+          "id": "ybaby.eth"
+        }
+      },
+      {
+        "id": "0xe3222b7fb398f6d13b3ab4855d055a295287afde87c9796e101a7543d01d1bc3",
+        "voter": "0x8A9e4eBEdD76b07Ca1B28718f9ec8408e65B8685",
+        "vp": 0.001,
+        "vp_by_strategy": [
+          0.001,
+          0
+        ],
+        "vp_state": "final",
+        "created": 1639114180,
+        "proposal": {
+          "id": "0x783cb3d57dd59b2827f6a42967375f06504cc947ebaa3c0e495c7b29ffd47aea"
+        },
+        "choice": {
+          "1": 1
+        },
+        "space": {
+          "id": "ybaby.eth"
+        }
+      },
+      {
+        "id": "0xdc6630b2f8d850d30c58424b040ce9b740f610971ac210dc302e7427f6c3f735",
+        "voter": "0xC9498889eDB4cA2ED087c0F5347320293bF90504",
+        "vp": 0.001,
+        "vp_by_strategy": [
+          0.001,
+          0
+        ],
+        "vp_state": "final",
+        "created": 1639114172,
+        "proposal": {
+          "id": "0x783cb3d57dd59b2827f6a42967375f06504cc947ebaa3c0e495c7b29ffd47aea"
+        },
+        "choice": {
+          "1": 1
+        },
+        "space": {
+          "id": "ybaby.eth"
+        }
+      },
+      {
+        "id": "0xcb77cdcf47401f4ad589ccb85e7e9555dbcddee0bb5c2279a036f7dbd6256c68",
+        "voter": "0x819aaB2e85fb07dBa64CD8248acb8C95EAAb259a",
+        "vp": 0.001,
+        "vp_by_strategy": [
+          0.001,
+          0
+        ],
+        "vp_state": "final",
+        "created": 1639114164,
+        "proposal": {
+          "id": "0x783cb3d57dd59b2827f6a42967375f06504cc947ebaa3c0e495c7b29ffd47aea"
+        },
+        "choice": {
+          "1": 1
+        },
+        "space": {
+          "id": "ybaby.eth"
+        }
+      },
+      {
+        "id": "0x86c4114153a19e2f205f7d8837f3a5f7780fe6b39e10426d1a948c88bda41b48",
+        "voter": "0xbAF049b1792A3f9d8b7aBa86c7b1b90ed2511B94",
+        "vp": 0.001,
+        "vp_by_strategy": [
+          0.001,
+          0
+        ],
+        "vp_state": "final",
+        "created": 1639114156,
+        "proposal": {
+          "id": "0x783cb3d57dd59b2827f6a42967375f06504cc947ebaa3c0e495c7b29ffd47aea"
+        },
+        "choice": {
+          "1": 1
+        },
+        "space": {
+          "id": "ybaby.eth"
+        }
+      },
+      {
+        "id": "0x6e094a2d137c53ab19352cb2e3c45b801abe298188eac51e65f01472c8d5c19f",
+        "voter": "0xF932e4aeA29D66DE523d0022B86e6C5032f8C2bC",
+        "vp": 0.001,
+        "vp_by_strategy": [
+          0.001,
+          0
+        ],
+        "vp_state": "final",
+        "created": 1639114148,
+        "proposal": {
+          "id": "0x783cb3d57dd59b2827f6a42967375f06504cc947ebaa3c0e495c7b29ffd47aea"
+        },
+        "choice": {
+          "1": 1
+        },
+        "space": {
+          "id": "ybaby.eth"
+        }
+      },
+      {
+        "id": "0x0b64e92bd3ce24475f4a93d9550d51d7f70816f1cb7cc18727bf4b7244b9670e",
+        "voter": "0xeD96d9ca875A2c7DC5c1C2934819f79bDeEF24Bf",
+        "vp": 0.001,
+        "vp_by_strategy": [
+          0.001,
+          0
+        ],
+        "vp_state": "final",
+        "created": 1639114140,
+        "proposal": {
+          "id": "0x783cb3d57dd59b2827f6a42967375f06504cc947ebaa3c0e495c7b29ffd47aea"
+        },
+        "choice": {
+          "1": 1
+        },
+        "space": {
+          "id": "ybaby.eth"
+        }
+      },
+      {
+        "id": "0xb91a0f34d76ffbca3c24eb76365ba5511cf90e68d121f40420ef2413d7b75267",
+        "voter": "0x902a24c603676766ef67Dc27f92A9b87Ffe22982",
+        "vp": 0.001,
+        "vp_by_strategy": [
+          0.001,
+          0
+        ],
+        "vp_state": "final",
+        "created": 1639114132,
+        "proposal": {
+          "id": "0x783cb3d57dd59b2827f6a42967375f06504cc947ebaa3c0e495c7b29ffd47aea"
+        },
+        "choice": {
+          "1": 1
+        },
+        "space": {
+          "id": "ybaby.eth"
+        }
+      },
+      {
+        "id": "0x7c51c7bd05edb4c3f9b975cc6b51f7c5a7de1d099dff5383ebf679739713437c",
+        "voter": "0x8B8aA68C016BE15F2920eBaC6d3C996f6E88048F",
+        "vp": 0.001,
+        "vp_by_strategy": [
+          0.001,
+          0
+        ],
+        "vp_state": "final",
+        "created": 1639114124,
+        "proposal": {
+          "id": "0x783cb3d57dd59b2827f6a42967375f06504cc947ebaa3c0e495c7b29ffd47aea"
+        },
+        "choice": {
+          "1": 1
+        },
+        "space": {
+          "id": "ybaby.eth"
+        }
+      },
+      {
+        "id": "0xcb6d09871ade8b55b98c5c172e7713660d4acbe60ca5dc27fa09823dc15a38f1",
+        "voter": "0xFa6aFBDc71Ab14d3B93A659e910895be78924D91",
+        "vp": 0.001,
+        "vp_by_strategy": [
+          0.001,
+          0
+        ],
+        "vp_state": "final",
+        "created": 1639114115,
+        "proposal": {
+          "id": "0x783cb3d57dd59b2827f6a42967375f06504cc947ebaa3c0e495c7b29ffd47aea"
+        },
+        "choice": {
+          "1": 1
+        },
+        "space": {
+          "id": "ybaby.eth"
+        }
+      },
+      {
+        "id": "0x23e7e7011ad1f36556a9e43f5db4a0aa0a93b3a23885425e7f6aed3e571f6622",
+        "voter": "0x8dF338F0a0F644C32E00aE18c0d5Ee33d84cF9D6",
+        "vp": 0.001,
+        "vp_by_strategy": [
+          0.001,
+          0
+        ],
+        "vp_state": "final",
+        "created": 1639114108,
+        "proposal": {
+          "id": "0x783cb3d57dd59b2827f6a42967375f06504cc947ebaa3c0e495c7b29ffd47aea"
+        },
+        "choice": {
+          "1": 1
+        },
+        "space": {
+          "id": "ybaby.eth"
+        }
+      },
+      {
+        "id": "0x79a58c0997784c8e2e6683815d8ce50c720ce99c84ee10c857553bda787ba984",
+        "voter": "0x19a22b62BbA26B3146D599Be743a2D65BF5acE2a",
+        "vp": 0.002447,
+        "vp_by_strategy": [
+          0.002447,
+          0
+        ],
+        "vp_state": "final",
+        "created": 1639114098,
+        "proposal": {
+          "id": "0x783cb3d57dd59b2827f6a42967375f06504cc947ebaa3c0e495c7b29ffd47aea"
+        },
+        "choice": {
+          "1": 1
+        },
+        "space": {
+          "id": "ybaby.eth"
+        }
+      },
+      {
+        "id": "0x4ef4148979f76e3871fcd8835c0939a6ec84b790abcd6c6400fd0f877adf5622",
+        "voter": "0x8D507Eb3fc3022693126701cB8469FDB59f78cb8",
+        "vp": 1.0123930585927028,
+        "vp_by_strategy": [
+          1.0123930585927028,
+          0
+        ],
+        "vp_state": "final",
+        "created": 1639113177,
+        "proposal": {
+          "id": "0x783cb3d57dd59b2827f6a42967375f06504cc947ebaa3c0e495c7b29ffd47aea"
+        },
+        "choice": {
+          "1": 1,
+          "3": 1
+        },
+        "space": {
+          "id": "ybaby.eth"
+        }
+      },
+      {
+        "id": "0x927231744cf86091e1ae4743d2dd3ad0407b3c47eb964dcd43bfea678b52bfa0",
+        "voter": "0x40aED6E410a780154a4dCF62c37dD8Ba54F08FfE",
+        "vp": 1.12845058,
+        "vp_by_strategy": [
+          1.12845058,
+          0
+        ],
+        "vp_state": "final",
+        "created": 1639112378,
+        "proposal": {
+          "id": "0x783cb3d57dd59b2827f6a42967375f06504cc947ebaa3c0e495c7b29ffd47aea"
+        },
+        "choice": {
+          "3": 50,
+          "4": 50
+        },
+        "space": {
+          "id": "ybaby.eth"
+        }
+      },
+      {
+        "id": "0x7866c2034b8712ae6667a47770933e061d229b0fc12850a98e557aa36cce2f85",
+        "voter": "0x5bA44CFC6672522E2C560830bf87024604DbCdF8",
+        "vp": 0.00005210988650368,
+        "vp_by_strategy": [
+          0.00005210988650368,
+          0
+        ],
+        "vp_state": "final",
+        "created": 1639110712,
+        "proposal": {
+          "id": "0x783cb3d57dd59b2827f6a42967375f06504cc947ebaa3c0e495c7b29ffd47aea"
+        },
+        "choice": {
+          "1": 1
+        },
+        "space": {
+          "id": "ybaby.eth"
+        }
+      },
+      {
+        "id": "0x3342ed24498d1a981354d61ed86ae082787210b3c5a292e7761df0d14e14fd4c",
+        "voter": "0x12289B133F5e15428E3766CF837264025D9b55f6",
+        "vp": 0.10883839052647137,
+        "vp_by_strategy": [
+          0.10883839052647136,
+          0
+        ],
+        "vp_state": "final",
+        "created": 1639109540,
+        "proposal": {
+          "id": "0x783cb3d57dd59b2827f6a42967375f06504cc947ebaa3c0e495c7b29ffd47aea"
+        },
+        "choice": {
+          "3": 1
+        },
+        "space": {
+          "id": "ybaby.eth"
+        }
+      },
+      {
+        "id": "QmNbV5iHmNmxE7kxqS4oydKTktCDUk97BHW3ecw5YWHLhj",
+        "voter": "0x1cd4274792541b2BB83C50056D72Cc3cE47B819F",
+        "vp": 0.004602677744053552,
+        "vp_by_strategy": [
+          0.004602677744053552,
+          0
+        ],
+        "vp_state": "final",
+        "created": 1639107661,
+        "proposal": {
+          "id": "0x783cb3d57dd59b2827f6a42967375f06504cc947ebaa3c0e495c7b29ffd47aea"
+        },
+        "choice": {
+          "1": 50,
+          "2": 50
+        },
+        "space": {
+          "id": "ybaby.eth"
+        }
+      },
+      {
+        "id": "0x7cf49cbe93c61c943a453824a9de50d421e6a337125fb20a4e89ac02e43892ee",
+        "voter": "0x3Ec6732676dB7996c1b34E64b0503F941025Cb63",
+        "vp": 0.00081215,
+        "vp_by_strategy": [
+          0.00081215,
+          0
+        ],
+        "vp_state": "final",
+        "created": 1639107283,
+        "proposal": {
+          "id": "0x783cb3d57dd59b2827f6a42967375f06504cc947ebaa3c0e495c7b29ffd47aea"
+        },
+        "choice": {
+          "5": 1
+        },
+        "space": {
+          "id": "ybaby.eth"
+        }
+      },
+      {
+        "id": "0x012133dd92d0073e15d20b5b534b5fa7cf3e3eeb138240e1ac17481e4c2a0552",
+        "voter": "0x07726d7e4ed80c8C64a8dd27e64F876Bd4225744",
+        "vp": 1.8049786590645531,
+        "vp_by_strategy": [
+          1.8049786590645531,
+          0
+        ],
+        "vp_state": "final",
+        "created": 1639099347,
+        "proposal": {
+          "id": "0x783cb3d57dd59b2827f6a42967375f06504cc947ebaa3c0e495c7b29ffd47aea"
+        },
+        "choice": {
+          "1": 25,
+          "2": 50,
+          "3": 25
+        },
+        "space": {
+          "id": "ybaby.eth"
+        }
+      },
+      {
+        "id": "0x85d64f880d87910f48282f1e8060f274536f77740075651c0ec714bd3a6390f1",
+        "voter": "0x96daaD6a61DA7519db265bd88F8639d443fe15e8",
+        "vp": 0.025659,
+        "vp_by_strategy": [
+          0.025659,
+          0
+        ],
+        "vp_state": "final",
+        "created": 1639092306,
+        "proposal": {
+          "id": "0x783cb3d57dd59b2827f6a42967375f06504cc947ebaa3c0e495c7b29ffd47aea"
+        },
+        "choice": {
+          "4": 1
+        },
+        "space": {
+          "id": "ybaby.eth"
+        }
+      },
+      {
+        "id": "0xca09f0f38070a69bf5e9618bdbf1347a3d42c38467210401c1f3cfc6a97af670",
+        "voter": "0x9e5A57470A2a136a3d4De39e1996E05944C4b1fb",
+        "vp": 1.836886215673247,
+        "vp_by_strategy": [
+          1.836886215673247,
+          0
+        ],
+        "vp_state": "final",
+        "created": 1639087528,
+        "proposal": {
+          "id": "0x783cb3d57dd59b2827f6a42967375f06504cc947ebaa3c0e495c7b29ffd47aea"
+        },
+        "choice": {
+          "3": 1
+        },
+        "space": {
+          "id": "ybaby.eth"
+        }
+      },
+      {
+        "id": "0xa2886a36a2585be9d8cf1e48d4a17b47e468732c9c1c713d05972eb70d392501",
+        "voter": "0x77eAB40ECe6A8b96Ec9b78860CB0e34d9011Bf09",
+        "vp": 0.25332473761288027,
+        "vp_by_strategy": [
+          0.25332473761288027,
+          0
+        ],
+        "vp_state": "final",
+        "created": 1639085954,
+        "proposal": {
+          "id": "0x783cb3d57dd59b2827f6a42967375f06504cc947ebaa3c0e495c7b29ffd47aea"
+        },
+        "choice": {
+          "3": 100
+        },
+        "space": {
+          "id": "ybaby.eth"
+        }
+      },
+      {
+        "id": "0xc9130c48c946a41aeb520b42b3cdd107a495b0c5e0365625ac20fc2097818d5b",
+        "voter": "0xf0beA6f5BAB274955FF9d587d49f6287878ef9c6",
+        "vp": 0.4685719700064585,
+        "vp_by_strategy": [
+          0.4685719700064585,
+          0
+        ],
+        "vp_state": "final",
+        "created": 1639085913,
+        "proposal": {
+          "id": "0x783cb3d57dd59b2827f6a42967375f06504cc947ebaa3c0e495c7b29ffd47aea"
+        },
+        "choice": {
+          "1": 25,
+          "3": 100
+        },
+        "space": {
+          "id": "ybaby.eth"
+        }
+      },
+      {
+        "id": "0x581d12737ef27815666bd6328af6cea370e43683d9a392743896416d3138d14e",
+        "voter": "0xcF28289559d1eC3D9DcE60aF46B21d6f4aEAd719",
+        "vp": 1.0893,
+        "vp_by_strategy": [
+          1.0893,
+          0
+        ],
+        "vp_state": "final",
+        "created": 1639078827,
+        "proposal": {
+          "id": "0x783cb3d57dd59b2827f6a42967375f06504cc947ebaa3c0e495c7b29ffd47aea"
+        },
+        "choice": {
+          "1": 2,
+          "3": 1
+        },
+        "space": {
+          "id": "ybaby.eth"
+        }
+      },
+      {
+        "id": "0x31f1d26641d2ce444a7dd49894f43de153863029ba8316edd5f35a4e69adc178",
+        "voter": "0x4202e733eB2D17A92401fD75148d04ac1b28F1c3",
+        "vp": 6.922664764788299,
+        "vp_by_strategy": [
+          6.922664764788299,
+          0
+        ],
+        "vp_state": "final",
+        "created": 1639078722,
+        "proposal": {
+          "id": "0x783cb3d57dd59b2827f6a42967375f06504cc947ebaa3c0e495c7b29ffd47aea"
+        },
+        "choice": {
+          "3": 1
+        },
+        "space": {
+          "id": "ybaby.eth"
+        }
+      },
+      {
+        "id": "0x53d0b1784f44a962952d7debf922d87b6c638b194f721c1ebc0e7bcd557977b6",
+        "voter": "0x2de14DB256Db2597fe3c8Eed46eF5b20bA390823",
+        "vp": 1.3831497925414238,
+        "vp_by_strategy": [
+          1.3831497925414238,
+          0
+        ],
+        "vp_state": "final",
+        "created": 1639070689,
+        "proposal": {
+          "id": "0x783cb3d57dd59b2827f6a42967375f06504cc947ebaa3c0e495c7b29ffd47aea"
+        },
+        "choice": {
+          "1": 100
+        },
+        "space": {
+          "id": "ybaby.eth"
+        }
+      },
+      {
+        "id": "0x540092eaae023b4493b42e818f7c14a533a23d45a4bc92b0ee964e618331c27a",
+        "voter": "0xde84C24bf589e4a6F7D86b495Ed20523290Dc102",
+        "vp": 0.00004982,
+        "vp_by_strategy": [
+          0.00004982,
+          0
+        ],
+        "vp_state": "final",
+        "created": 1639068893,
+        "proposal": {
+          "id": "0x783cb3d57dd59b2827f6a42967375f06504cc947ebaa3c0e495c7b29ffd47aea"
+        },
+        "choice": {
+          "2": 1
+        },
+        "space": {
+          "id": "ybaby.eth"
+        }
+      },
+      {
+        "id": "0x7458c0b7ee95792a82e3e41356d9a8f12a5cc2fa244c85059d0543fb641a7a70",
+        "voter": "0xfeAC37ccC4afbC8Ae635B510Be41d2eAC8e171ED",
+        "vp": 0.009462747440340778,
+        "vp_by_strategy": [
+          0.009462747440340778,
+          0
+        ],
+        "vp_state": "final",
+        "created": 1639068572,
+        "proposal": {
+          "id": "0x783cb3d57dd59b2827f6a42967375f06504cc947ebaa3c0e495c7b29ffd47aea"
+        },
+        "choice": {
+          "3": 3
+        },
+        "space": {
+          "id": "ybaby.eth"
+        }
+      },
+      {
+        "id": "0xa8f2c9fe569e0ce6874baf481311b88c7c8fc018071efcd3afe1164fd17ea28f",
+        "voter": "0x889cb44823b35Fc53dfC3a8b58a825Beb6A737B5",
+        "vp": 0.00001821,
+        "vp_by_strategy": [
+          0.00001821,
+          0
+        ],
+        "vp_state": "final",
+        "created": 1639061320,
+        "proposal": {
+          "id": "0x783cb3d57dd59b2827f6a42967375f06504cc947ebaa3c0e495c7b29ffd47aea"
+        },
+        "choice": {
+          "3": 100
+        },
+        "space": {
+          "id": "ybaby.eth"
+        }
+      },
+      {
+        "id": "0xf64c1f518f807ec33832d651ff50a60034ed12b62db949da33acef34d167fbb6",
+        "voter": "0x966E96091dF6ce838aa4943e5367D0A5Beb10781",
+        "vp": 0.00001126,
+        "vp_by_strategy": [
+          0.00001126,
+          0
+        ],
+        "vp_state": "final",
+        "created": 1639060983,
+        "proposal": {
+          "id": "0x783cb3d57dd59b2827f6a42967375f06504cc947ebaa3c0e495c7b29ffd47aea"
+        },
+        "choice": {
+          "3": 100
+        },
+        "space": {
+          "id": "ybaby.eth"
+        }
+      },
+      {
+        "id": "0x9f308032e01819e802dcd064292124ce928bd193e8cc842cafc4d27363fa1833",
+        "voter": "0x7D3bF2cb39f5cEEeca91eCc8201Dc01616AD089f",
+        "vp": 0.00002733,
+        "vp_by_strategy": [
+          0.00002733,
+          0
+        ],
+        "vp_state": "final",
+        "created": 1639060368,
+        "proposal": {
+          "id": "0x783cb3d57dd59b2827f6a42967375f06504cc947ebaa3c0e495c7b29ffd47aea"
+        },
+        "choice": {
+          "3": 1
+        },
+        "space": {
+          "id": "ybaby.eth"
+        }
+      },
+      {
+        "id": "0xb036154261dca602e7c67e5dbb3c71666d44700f9ee807db50fab1ea78e700f8",
+        "voter": "0xfDD2606D669cB490D38D43981FC50d4B69816211",
+        "vp": 0.0002,
+        "vp_by_strategy": [
+          0.0002,
+          0
+        ],
+        "vp_state": "final",
+        "created": 1639057665,
+        "proposal": {
+          "id": "0x783cb3d57dd59b2827f6a42967375f06504cc947ebaa3c0e495c7b29ffd47aea"
+        },
+        "choice": {
+          "3": 1
+        },
+        "space": {
+          "id": "ybaby.eth"
+        }
+      },
+      {
+        "id": "0xab73e2b2e6930b3685813ecff99666a80b169731a7bae74f9c4200e405946735",
+        "voter": "0xfC3551F3b51F27CA60eFb25f45eD95d4e80E7071",
+        "vp": 0.000046644976205346,
+        "vp_by_strategy": [
+          0.000046644976205346,
+          0
+        ],
+        "vp_state": "final",
+        "created": 1639056623,
+        "proposal": {
+          "id": "0x783cb3d57dd59b2827f6a42967375f06504cc947ebaa3c0e495c7b29ffd47aea"
+        },
+        "choice": {
+          "3": 2
+        },
+        "space": {
+          "id": "ybaby.eth"
+        }
+      },
+      {
+        "id": "0xd15518137b399b6d0158049502ab89d3f6a2a474c8436ef03d61eac5af5e3b54",
+        "voter": "0x0C1e99991dD2f7D374Bff13f9F52284CE6cfDAE5",
+        "vp": 0.000549039796248872,
+        "vp_by_strategy": [
+          0.000549039796248872,
+          0
+        ],
+        "vp_state": "final",
+        "created": 1639054677,
+        "proposal": {
+          "id": "0x783cb3d57dd59b2827f6a42967375f06504cc947ebaa3c0e495c7b29ffd47aea"
+        },
+        "choice": {
+          "1": 1,
+          "2": 1
+        },
+        "space": {
+          "id": "ybaby.eth"
+        }
+      },
+      {
+        "id": "0x79d359e099936191296d2f82a4807078908d8e320189c6406144cf6bb3a1a4f3",
+        "voter": "0xcC0333bCB5E0dE0C14fc42a1bDC85EfCD36612cC",
+        "vp": 0.10295634986422963,
+        "vp_by_strategy": [
+          0.10295634986422963,
+          0
+        ],
+        "vp_state": "final",
+        "created": 1639049451,
+        "proposal": {
+          "id": "0x783cb3d57dd59b2827f6a42967375f06504cc947ebaa3c0e495c7b29ffd47aea"
+        },
+        "choice": {
+          "3": 1
+        },
+        "space": {
+          "id": "ybaby.eth"
+        }
+      },
+      {
+        "id": "0xdbb95345193f51f33ce1cf668ec66d2ba436992cac25c988e1f292cb0d6cc3c0",
+        "voter": "0x2951B1F7058bd2C05F01954002C450BaC0873847",
+        "vp": 0,
+        "vp_by_strategy": [
+          0,
+          0
+        ],
+        "vp_state": "final",
+        "created": 1639047240,
+        "proposal": {
+          "id": "0x783cb3d57dd59b2827f6a42967375f06504cc947ebaa3c0e495c7b29ffd47aea"
+        },
+        "choice": {
+          "2": 35,
+          "3": 65
+        },
+        "space": {
+          "id": "ybaby.eth"
+        }
+      },
+      {
+        "id": "0xa741e6d63a907bd7ddfd104933105297cb997602ba04bbc1cd54a31647c37696",
+        "voter": "0x5be28e441F325D8B005839fD69695884f11da063",
+        "vp": 0.048600681001952216,
+        "vp_by_strategy": [
+          0.048600681001952216,
+          0
+        ],
+        "vp_state": "final",
+        "created": 1639047220,
+        "proposal": {
+          "id": "0x783cb3d57dd59b2827f6a42967375f06504cc947ebaa3c0e495c7b29ffd47aea"
+        },
+        "choice": {
+          "2": 35,
+          "3": 65
+        },
+        "space": {
+          "id": "ybaby.eth"
+        }
+      },
+      {
+        "id": "0x914e7163f72dc0d709a58ca9eddb7894dc52f20f554e464abfe6e84e211ddfcd",
+        "voter": "0xBcaf219BA7C5299892b074D69398564dfdfE79f3",
+        "vp": 0.000649662741750642,
+        "vp_by_strategy": [
+          0.000649662741750642,
+          0
+        ],
+        "vp_state": "final",
+        "created": 1639046857,
+        "proposal": {
+          "id": "0x783cb3d57dd59b2827f6a42967375f06504cc947ebaa3c0e495c7b29ffd47aea"
+        },
+        "choice": {
+          "1": 100
+        },
+        "space": {
+          "id": "ybaby.eth"
+        }
+      },
+      {
+        "id": "0x3e3d9017dbc5b6770ca8920bc59c86607d0c3947ba96a240d7cf75545485c68c",
+        "voter": "0xF196836B53E8f03E32f5186C7909aCbb8B742615",
+        "vp": 0.000001,
+        "vp_by_strategy": [
+          0.000001,
+          0
+        ],
+        "vp_state": "final",
+        "created": 1639040441,
+        "proposal": {
+          "id": "0x783cb3d57dd59b2827f6a42967375f06504cc947ebaa3c0e495c7b29ffd47aea"
+        },
+        "choice": {
+          "1": 25,
+          "3": 75,
+          "5": 3
+        },
+        "space": {
+          "id": "ybaby.eth"
+        }
+      },
+      {
+        "id": "0x9a6a6195c5970cd26e14054e2878d8b98863f7de62b160075ff3649cfbaf8a4a",
+        "voter": "0xdCAd95C9894d80fB30817F59e7619Fd9128f64d1",
+        "vp": 0.000001,
+        "vp_by_strategy": [
+          0.000001,
+          0
+        ],
+        "vp_state": "final",
+        "created": 1639040410,
+        "proposal": {
+          "id": "0x783cb3d57dd59b2827f6a42967375f06504cc947ebaa3c0e495c7b29ffd47aea"
+        },
+        "choice": {
+          "1": 25
+        },
+        "space": {
+          "id": "ybaby.eth"
+        }
+      },
+      {
+        "id": "0x8e39ad09cec9b76a718f3fc798dfd9c580cbb727d9b36826e4f78ef258666b5f",
+        "voter": "0xB9b93bF2DB3678b010E71Ef701d763Aee144E93E",
+        "vp": 0.00002333,
+        "vp_by_strategy": [
+          0.00002333,
+          0
+        ],
+        "vp_state": "final",
+        "created": 1639040301,
+        "proposal": {
+          "id": "0x783cb3d57dd59b2827f6a42967375f06504cc947ebaa3c0e495c7b29ffd47aea"
+        },
+        "choice": {
+          "1": 25
+        },
+        "space": {
+          "id": "ybaby.eth"
+        }
+      },
+      {
+        "id": "0xe613d58a67578905fa78576df011a7e5445fcff8351d2e0468e3d97bb34a863b",
+        "voter": "0x7dd508a1e4Da1243789B799a480f8B45e58b1B5b",
+        "vp": 0.1683003022440145,
+        "vp_by_strategy": [
+          0.1683003022440145,
+          0
+        ],
+        "vp_state": "final",
+        "created": 1639039282,
+        "proposal": {
+          "id": "0x783cb3d57dd59b2827f6a42967375f06504cc947ebaa3c0e495c7b29ffd47aea"
+        },
+        "choice": {
+          "3": 1
+        },
+        "space": {
+          "id": "ybaby.eth"
+        }
+      },
+      {
+        "id": "0x3286b394e0a5a14a76ef96eddbf6e7c9d20ae89968d3a4b098a84788b5c996f0",
+        "voter": "0x5cfA9D7ED59D6BA0EA17626AC15F949d005A2239",
+        "vp": 2.751203936253758,
+        "vp_by_strategy": [
+          2.751203936253758,
+          0
+        ],
+        "vp_state": "final",
+        "created": 1639037170,
+        "proposal": {
+          "id": "0x783cb3d57dd59b2827f6a42967375f06504cc947ebaa3c0e495c7b29ffd47aea"
+        },
+        "choice": {
+          "1": 1,
+          "3": 2
+        },
+        "space": {
+          "id": "ybaby.eth"
+        }
+      },
+      {
+        "id": "0x90bc3de986efea18b4a6809dbafa9db8739da862348412117e759b194a1854ac",
+        "voter": "0x3A70e8C00f3bCf3eb845B6b6928AbA92b465C183",
+        "vp": 0.00007893156642115,
+        "vp_by_strategy": [
+          0.00007893156642115,
+          0
+        ],
+        "vp_state": "final",
+        "created": 1639033904,
+        "proposal": {
+          "id": "0x783cb3d57dd59b2827f6a42967375f06504cc947ebaa3c0e495c7b29ffd47aea"
+        },
+        "choice": {
+          "1": 1
+        },
+        "space": {
+          "id": "ybaby.eth"
+        }
+      },
+      {
+        "id": "0x5af39923fff1d6df73e05ea07223548ba8978bc6925f13fa51770e0c8a915ef8",
+        "voter": "0x38153Bad797C27Dd07cB04b89326BBfDE3f7f0C5",
+        "vp": 0.08015049584448089,
+        "vp_by_strategy": [
+          0.08015049584448089,
+          0
+        ],
+        "vp_state": "final",
+        "created": 1639033302,
+        "proposal": {
+          "id": "0x783cb3d57dd59b2827f6a42967375f06504cc947ebaa3c0e495c7b29ffd47aea"
+        },
+        "choice": {
+          "3": 100
+        },
+        "space": {
+          "id": "ybaby.eth"
+        }
+      },
+      {
+        "id": "0x80ae01d1ba1116dd2779da917b89afcad53acda29102c375a6cf2278c0814512",
+        "voter": "0xEc7803d9616DEef09677612Cb5dbEBAeA9fA1226",
+        "vp": 1.003375625988669,
+        "vp_by_strategy": [
+          1.003375625988669,
+          0
+        ],
+        "vp_state": "final",
+        "created": 1639028362,
+        "proposal": {
+          "id": "0x783cb3d57dd59b2827f6a42967375f06504cc947ebaa3c0e495c7b29ffd47aea"
+        },
+        "choice": {
+          "1": 50,
+          "3": 50
+        },
+        "space": {
+          "id": "ybaby.eth"
+        }
+      },
+      {
+        "id": "0x8e5b9df0c708904859381b6b859694db01513b577e92da9ce7ff1c72552ea26d",
+        "voter": "0x03ceD36Ee0EEE03c5818ebC619468957af98bAe7",
+        "vp": 0.39372176019108396,
+        "vp_by_strategy": [
+          0.393721760191084,
+          0
+        ],
+        "vp_state": "final",
+        "created": 1639023188,
+        "proposal": {
+          "id": "0x783cb3d57dd59b2827f6a42967375f06504cc947ebaa3c0e495c7b29ffd47aea"
+        },
+        "choice": {
+          "1": 2,
+          "2": 4,
+          "3": 3
+        },
+        "space": {
+          "id": "ybaby.eth"
+        }
+      },
+      {
+        "id": "0x432a8ca1e86f7ae7d51f4f770173b557b149295e293dfae867c7ebdb8a309a27",
+        "voter": "0xDcE62b21A8B1A9b39dD3ded27C876d416CC91B3e",
+        "vp": 0.05,
+        "vp_by_strategy": [
+          0.05,
+          0
+        ],
+        "vp_state": "final",
+        "created": 1639022493,
+        "proposal": {
+          "id": "0x783cb3d57dd59b2827f6a42967375f06504cc947ebaa3c0e495c7b29ffd47aea"
+        },
+        "choice": {
+          "3": 1
+        },
+        "space": {
+          "id": "ybaby.eth"
+        }
+      },
+      {
+        "id": "0xfc728ee40ce768894656973ffb928b8cc6451d7e849e01efddc12180de410c1a",
+        "voter": "0xd676c0f9e52383EDa1c8036701f12a5e7aC6b0e9",
+        "vp": 5.195848191092128,
+        "vp_by_strategy": [
+          5.195848191092128,
+          0
+        ],
+        "vp_state": "final",
+        "created": 1639019793,
+        "proposal": {
+          "id": "0x783cb3d57dd59b2827f6a42967375f06504cc947ebaa3c0e495c7b29ffd47aea"
+        },
+        "choice": {
+          "3": 1
+        },
+        "space": {
+          "id": "ybaby.eth"
+        }
+      },
+      {
+        "id": "0x3180140303508f2ddeb97b8e470322b2d86b23f06d7c21a357300194fcf0c5c5",
+        "voter": "0x4d477F1aabcFc2FC3FC9b802E861C013E0123AD9",
+        "vp": 0.000025171314856721,
+        "vp_by_strategy": [
+          0.000025171314856721,
+          0
+        ],
+        "vp_state": "final",
+        "created": 1639019402,
+        "proposal": {
+          "id": "0x783cb3d57dd59b2827f6a42967375f06504cc947ebaa3c0e495c7b29ffd47aea"
+        },
+        "choice": {
+          "3": 1
+        },
+        "space": {
+          "id": "ybaby.eth"
+        }
+      },
+      {
+        "id": "0xd53902c82f2e9169ba9aa10a5ee29e07d98d0acb8ae5b11cfd197c8b3718142e",
+        "voter": "0xFc4605B7046B3Fb512B69ae91918b9305F1C4254",
+        "vp": 1.1929030235445381,
+        "vp_by_strategy": [
+          1.192903023544538,
+          0
+        ],
+        "vp_state": "final",
+        "created": 1639019133,
+        "proposal": {
+          "id": "0x783cb3d57dd59b2827f6a42967375f06504cc947ebaa3c0e495c7b29ffd47aea"
+        },
+        "choice": {
+          "2": 50,
+          "3": 50
+        },
+        "space": {
+          "id": "ybaby.eth"
+        }
+      },
+      {
+        "id": "0x219e4e3212e62a5d3ae34a20d454380721f634645483409f6b90bcb52b1f3745",
+        "voter": "0x2D5823E8e8B4dfbf599a97566ff2A121Cc141d60",
+        "vp": 0.000032,
+        "vp_by_strategy": [
+          0.000032,
+          0
+        ],
+        "vp_state": "final",
+        "created": 1639018764,
+        "proposal": {
+          "id": "0x783cb3d57dd59b2827f6a42967375f06504cc947ebaa3c0e495c7b29ffd47aea"
+        },
+        "choice": {
+          "1": 100,
+          "2": 1,
+          "3": 25,
+          "4": 1,
+          "5": 1
+        },
+        "space": {
+          "id": "ybaby.eth"
+        }
+      },
+      {
+        "id": "0x3c02a515c849cb926400f091d8d05921fb947bbe4103e4e173750fbd5e41bfe9",
+        "voter": "0x1b5b4fCEDF1252cd92496a2fd5C593b39aC49b01",
+        "vp": 0.00006,
+        "vp_by_strategy": [
+          0.00006,
+          0
+        ],
+        "vp_state": "final",
+        "created": 1639018755,
+        "proposal": {
+          "id": "0x783cb3d57dd59b2827f6a42967375f06504cc947ebaa3c0e495c7b29ffd47aea"
+        },
+        "choice": {
+          "1": 100,
+          "2": 1,
+          "3": 25,
+          "4": 1,
+          "5": 1
+        },
+        "space": {
+          "id": "ybaby.eth"
+        }
+      },
+      {
+        "id": "0xb9467bed391f34b88a3b66c9d29ce390a680bb580a94391fffd4c7e56b730ada",
+        "voter": "0x707D306714FF28560f32bF9DAE973BD33cd851c5",
+        "vp": 0.00003,
+        "vp_by_strategy": [
+          0.00003,
+          0
+        ],
+        "vp_state": "final",
+        "created": 1639018746,
+        "proposal": {
+          "id": "0x783cb3d57dd59b2827f6a42967375f06504cc947ebaa3c0e495c7b29ffd47aea"
+        },
+        "choice": {
+          "1": 100,
+          "2": 1,
+          "3": 25,
+          "4": 1,
+          "5": 1
+        },
+        "space": {
+          "id": "ybaby.eth"
+        }
+      },
+      {
+        "id": "0x4af64daf0a5221e82a2a9b82a147a575ea72d17c5959f78beb0258db910f2e6c",
+        "voter": "0xc97370F22eD5ac4c7B24A8E1ca9D81FEbb3b9457",
+        "vp": 0.00005,
+        "vp_by_strategy": [
+          0.00005,
+          0
+        ],
+        "vp_state": "final",
+        "created": 1639018736,
+        "proposal": {
+          "id": "0x783cb3d57dd59b2827f6a42967375f06504cc947ebaa3c0e495c7b29ffd47aea"
+        },
+        "choice": {
+          "1": 100,
+          "2": 1,
+          "3": 25,
+          "4": 1,
+          "5": 1
+        },
+        "space": {
+          "id": "ybaby.eth"
+        }
+      },
+      {
+        "id": "0x11b0b49ac779cc24fb1dfb95243986fbd138672234e81d2ec66f90fc65fba0e9",
+        "voter": "0x70Ddb5AbF21202602b57F4860eE1262a594a0086",
+        "vp": 0.00005,
+        "vp_by_strategy": [
+          0.00005,
+          0
+        ],
+        "vp_state": "final",
+        "created": 1639018714,
+        "proposal": {
+          "id": "0x783cb3d57dd59b2827f6a42967375f06504cc947ebaa3c0e495c7b29ffd47aea"
+        },
+        "choice": {
+          "1": 100,
+          "3": 1
+        },
+        "space": {
+          "id": "ybaby.eth"
+        }
+      },
+      {
+        "id": "0x54860f7e372fe309a504c4d2bfcbdf9dba8428ec9c94561cd2351dd90290dbea",
+        "voter": "0x344b1E4Ac175f16D3bA40A688cA928E3768E275a",
+        "vp": 0.00010709,
+        "vp_by_strategy": [
+          0.00010709,
+          0
+        ],
+        "vp_state": "final",
+        "created": 1639018704,
+        "proposal": {
+          "id": "0x783cb3d57dd59b2827f6a42967375f06504cc947ebaa3c0e495c7b29ffd47aea"
+        },
+        "choice": {
+          "1": 100,
+          "3": 1
+        },
+        "space": {
+          "id": "ybaby.eth"
+        }
+      },
+      {
+        "id": "0x9ce559ca8b795e5c70ad3e65cdc10499168a38563de95f6d4d36b798c2779443",
+        "voter": "0x0fF9B6AB6Ec58ceB6D5ae8a1690dd5a0959aD002",
+        "vp": 0.00005,
+        "vp_by_strategy": [
+          0.00005,
+          0
+        ],
+        "vp_state": "final",
+        "created": 1639018696,
+        "proposal": {
+          "id": "0x783cb3d57dd59b2827f6a42967375f06504cc947ebaa3c0e495c7b29ffd47aea"
+        },
+        "choice": {
+          "1": 100,
+          "3": 1
+        },
+        "space": {
+          "id": "ybaby.eth"
+        }
+      },
+      {
+        "id": "0xcc75b2ae0ea2cf7d60e5c13b841ad0979e6fd4252999cb85c7e96ecfe9063125",
+        "voter": "0xD03Ad690ed8065EDfdC1E08197a3ebC71535A7ff",
+        "vp": 0.000046,
+        "vp_by_strategy": [
+          0.000046,
+          0
+        ],
+        "vp_state": "final",
+        "created": 1639018686,
+        "proposal": {
+          "id": "0x783cb3d57dd59b2827f6a42967375f06504cc947ebaa3c0e495c7b29ffd47aea"
+        },
+        "choice": {
+          "1": 100,
+          "3": 1
+        },
+        "space": {
+          "id": "ybaby.eth"
+        }
+      },
+      {
+        "id": "0x1f6454031c251fcd2be16122c25155400e7b2c93e1dd6a6ced11988942f0c100",
+        "voter": "0xbDa0136ea391e24a938793972726f8763150c7C3",
+        "vp": 0.00006,
+        "vp_by_strategy": [
+          0.00006,
+          0
+        ],
+        "vp_state": "final",
+        "created": 1639018641,
+        "proposal": {
+          "id": "0x783cb3d57dd59b2827f6a42967375f06504cc947ebaa3c0e495c7b29ffd47aea"
+        },
+        "choice": {
+          "1": 20,
+          "3": 1
+        },
+        "space": {
+          "id": "ybaby.eth"
+        }
+      },
+      {
+        "id": "0x87f781957f795d6c60c4b85a2f15adbc0abe9813fa4bf7dcda914ab1867c1cf2",
+        "voter": "0x9Ba6baA919BAc9Acd901dF3Bfde848FE006D3caE",
+        "vp": 0.0000186,
+        "vp_by_strategy": [
+          0.0000186,
+          0
+        ],
+        "vp_state": "final",
+        "created": 1639018608,
+        "proposal": {
+          "id": "0x783cb3d57dd59b2827f6a42967375f06504cc947ebaa3c0e495c7b29ffd47aea"
+        },
+        "choice": {
+          "3": 1
+        },
+        "space": {
+          "id": "ybaby.eth"
+        }
+      },
+      {
+        "id": "0xf08746bc86bec3d6f53a21f4609a48dcf332e439ab619415a06e5eca4d7f2848",
+        "voter": "0x76d2DDCe6b781e66c4B184C82Fbf4F94346Cfb0D",
+        "vp": 0.03305959551609503,
+        "vp_by_strategy": [
+          0.03305959551609503,
+          0
+        ],
+        "vp_state": "final",
+        "created": 1639016855,
+        "proposal": {
+          "id": "0x783cb3d57dd59b2827f6a42967375f06504cc947ebaa3c0e495c7b29ffd47aea"
+        },
+        "choice": {
+          "2": 1,
+          "4": 1
+        },
+        "space": {
+          "id": "ybaby.eth"
+        }
+      },
+      {
+        "id": "0x529f35cc631e84ef4e62b67f9573fa8337e7f408fb57f8c0ceb4d05d20a39845",
+        "voter": "0x01e6fd0aE73D9194b19f9B376065577927A0D5f5",
+        "vp": 0.21345383769305895,
+        "vp_by_strategy": [
+          0.21345383769305895,
+          0
+        ],
+        "vp_state": "final",
+        "created": 1639011807,
+        "proposal": {
+          "id": "0x783cb3d57dd59b2827f6a42967375f06504cc947ebaa3c0e495c7b29ffd47aea"
+        },
+        "choice": {
+          "1": 2,
+          "2": 1,
+          "3": 1
+        },
+        "space": {
+          "id": "ybaby.eth"
+        }
+      },
+      {
+        "id": "0xd078469940852a1aff96a79c372f36c355e1288394306beeb7f4bb19846505f7",
+        "voter": "0xFc9D0e662510F57583ffE2e9c8eD24Cd420fc629",
+        "vp": 0.9562224993264115,
+        "vp_by_strategy": [
+          0.9562224993264116,
+          0
+        ],
+        "vp_state": "final",
+        "created": 1639011762,
+        "proposal": {
+          "id": "0x783cb3d57dd59b2827f6a42967375f06504cc947ebaa3c0e495c7b29ffd47aea"
+        },
+        "choice": {
+          "1": 2,
+          "2": 1,
+          "3": 1
+        },
+        "space": {
+          "id": "ybaby.eth"
+        }
+      },
+      {
+        "id": "0xfa3c02ebe597371c6fd11b1fd801c3686168d8db45a06a7c2addbc9a6c98233a",
+        "voter": "0xb2993F007d2aBaECBb7C3529d78c5de0f1214888",
+        "vp": 0.08429558102733936,
+        "vp_by_strategy": [
+          0.08429558102733936,
+          0
+        ],
+        "vp_state": "final",
+        "created": 1639011557,
+        "proposal": {
+          "id": "0x783cb3d57dd59b2827f6a42967375f06504cc947ebaa3c0e495c7b29ffd47aea"
+        },
+        "choice": {
+          "3": 20
+        },
+        "space": {
+          "id": "ybaby.eth"
+        }
+      },
+      {
+        "id": "0x5bc14317da27d755e7b5269054b665e94ef1e4356888a23a55e3dd1465a23c8a",
+        "voter": "0x7558899d8109D8a2CE457837ADE56C3d6eBFE90d",
+        "vp": 0.00001,
+        "vp_by_strategy": [
+          0.00001,
+          0
+        ],
+        "vp_state": "final",
+        "created": 1638985832,
+        "proposal": {
+          "id": "0x783cb3d57dd59b2827f6a42967375f06504cc947ebaa3c0e495c7b29ffd47aea"
+        },
+        "choice": {
+          "1": 1
+        },
+        "space": {
+          "id": "ybaby.eth"
+        }
+      },
+      {
+        "id": "QmZvJVCfJ9tcK92ze8xZTr2RCpAzEdR5GyEwR9Lq8rkv1j",
+        "voter": "0x794ad3aF58B56522b80Aa7E9BC04F042C55D5B2F",
+        "vp": 2.6815575559040945,
+        "vp_by_strategy": [
+          2.6815575559040945,
+          0
+        ],
+        "vp_state": "final",
+        "created": 1638984845,
+        "proposal": {
+          "id": "0x783cb3d57dd59b2827f6a42967375f06504cc947ebaa3c0e495c7b29ffd47aea"
+        },
+        "choice": {
+          "3": 100
+        },
+        "space": {
+          "id": "ybaby.eth"
+        }
+      },
+      {
+        "id": "0xbde50186cd93f8018461acc6e0294fc0cd4a1ca8fbbed68b93bf2ba2c1d3850b",
+        "voter": "0xc47faE56f3702737B69ed615950c01217ec5C7C8",
+        "vp": 2.06225834533057,
+        "vp_by_strategy": [
+          2.06225834533057,
+          0
+        ],
+        "vp_state": "final",
+        "created": 1638982671,
+        "proposal": {
+          "id": "0x783cb3d57dd59b2827f6a42967375f06504cc947ebaa3c0e495c7b29ffd47aea"
+        },
+        "choice": {
+          "3": 100
+        },
+        "space": {
+          "id": "ybaby.eth"
+        }
+      },
+      {
+        "id": "0xe05ae705593ba08176287e1bcd81f755f775f65f3d3e7ccf9c47f359030e5fef",
+        "voter": "0xF7f27e46778F1f323D1CFd3AF62Bd1b74a1C82B9",
+        "vp": 0.6498152516497695,
+        "vp_by_strategy": [
+          0.6498152516497695,
+          0
+        ],
+        "vp_state": "final",
+        "created": 1638981364,
+        "proposal": {
+          "id": "0x783cb3d57dd59b2827f6a42967375f06504cc947ebaa3c0e495c7b29ffd47aea"
+        },
+        "choice": {
+          "1": 30,
+          "2": 70
+        },
+        "space": {
+          "id": "ybaby.eth"
+        }
+      },
+      {
+        "id": "0x2a41aa27d3ae93f978efdb223a1b21c8983e1bf5fef7d4b2971cf2fe5d487c7b",
+        "voter": "0x0aaf38602F6f5778ddd5f4781592B9574d5Fbb7E",
+        "vp": 0.003818916361207466,
+        "vp_by_strategy": [
+          0.003818916361207466,
+          0
+        ],
+        "vp_state": "final",
+        "created": 1638981261,
+        "proposal": {
+          "id": "0x783cb3d57dd59b2827f6a42967375f06504cc947ebaa3c0e495c7b29ffd47aea"
+        },
+        "choice": {
+          "1": 1
+        },
+        "space": {
+          "id": "ybaby.eth"
+        }
+      },
+      {
+        "id": "0xa75ca25cf29e34d78f895c6c7b9cd945fe9154018cc0cbce535d332ad914e542",
+        "voter": "0x05c0F2d1978a1Da91E5D82B8935c610b3F93f36B",
+        "vp": 0.000020188272040783,
+        "vp_by_strategy": [
+          0.000020188272040783,
+          0
+        ],
+        "vp_state": "final",
+        "created": 1638980293,
+        "proposal": {
+          "id": "0x783cb3d57dd59b2827f6a42967375f06504cc947ebaa3c0e495c7b29ffd47aea"
+        },
+        "choice": {
+          "1": 1,
+          "2": 1,
+          "3": 1
+        },
+        "space": {
+          "id": "ybaby.eth"
+        }
+      },
+      {
+        "id": "0x0f5dea48c349e35c7f1f26b43febe9e0a94f1deffcb87fa4e863e9e2011bab99",
+        "voter": "0x17fd68F4F3035A1b51E6e662238784001f76A8F9",
+        "vp": 0.04048668654679213,
+        "vp_by_strategy": [
+          0.04048668654679213,
+          0
+        ],
+        "vp_state": "final",
+        "created": 1638976116,
+        "proposal": {
+          "id": "0x783cb3d57dd59b2827f6a42967375f06504cc947ebaa3c0e495c7b29ffd47aea"
+        },
+        "choice": {
+          "5": 1
+        },
+        "space": {
+          "id": "ybaby.eth"
+        }
+      },
+      {
+        "id": "0xdab4f2f48a43f78b36151db2c349784069b4a52996da4cc2836c1bb84f8e58b2",
+        "voter": "0x9c57027B1eca93093a6F446422C59C85A5A3Fa52",
+        "vp": 0.04948792323696156,
+        "vp_by_strategy": [
+          0.04948792323696156,
+          0
+        ],
+        "vp_state": "final",
+        "created": 1638974384,
+        "proposal": {
+          "id": "0x783cb3d57dd59b2827f6a42967375f06504cc947ebaa3c0e495c7b29ffd47aea"
+        },
+        "choice": {
+          "1": 12.5,
+          "2": 12.5,
+          "3": 75
+        },
+        "space": {
+          "id": "ybaby.eth"
+        }
+      },
+      {
+        "id": "0x1476d3c0120d1e302647ccb22192c4130fbe8d5d3e24ca09ea7aae98ba02d3b0",
+        "voter": "0x176Cb62309871F83e9D39B6A9523D877C359aD0C",
+        "vp": 1.0044319029502493,
+        "vp_by_strategy": [
+          1.004431902950249,
+          0
+        ],
+        "vp_state": "final",
+        "created": 1638972619,
+        "proposal": {
+          "id": "0x783cb3d57dd59b2827f6a42967375f06504cc947ebaa3c0e495c7b29ffd47aea"
+        },
+        "choice": {
+          "3": 100
+        },
+        "space": {
+          "id": "ybaby.eth"
+        }
+      },
+      {
+        "id": "0x73ccec8fae71d567247fd6fd83027e2b01135c56470a318b5b60f0cc78043622",
+        "voter": "0x76DF41612DC279E457e4Cb897816e4fc11c90E75",
+        "vp": 1.4264101264639297,
+        "vp_by_strategy": [
+          1.4264101264639295,
+          0
+        ],
+        "vp_state": "final",
+        "created": 1638969044,
+        "proposal": {
+          "id": "0x783cb3d57dd59b2827f6a42967375f06504cc947ebaa3c0e495c7b29ffd47aea"
+        },
+        "choice": {
+          "1": 1,
+          "2": 1,
+          "3": 1
+        },
+        "space": {
+          "id": "ybaby.eth"
+        }
+      },
+      {
+        "id": "0x2d66916aac17a6058dd817de44cdc2d3ade9eb13f48c91891fd1be963e4f0f9e",
+        "voter": "0xEa8CDB581e5F46491F03e25fe36b095df5Bc1117",
+        "vp": 0.24156866207843133,
+        "vp_by_strategy": [
+          0.2415686620784313,
+          0
+        ],
+        "vp_state": "final",
+        "created": 1638968118,
+        "proposal": {
+          "id": "0x783cb3d57dd59b2827f6a42967375f06504cc947ebaa3c0e495c7b29ffd47aea"
+        },
+        "choice": {
+          "2": 1
+        },
+        "space": {
+          "id": "ybaby.eth"
+        }
+      },
+      {
+        "id": "0x29f539d505590800a7eee0525c03a566f9d04c317464f834edc8074382ada6a0",
+        "voter": "0x4F532e0ae9954A85E5396F3E8d1876556317bFBA",
+        "vp": 0.9255191761998515,
+        "vp_by_strategy": [
+          0.9255191761998516,
+          0
+        ],
+        "vp_state": "final",
+        "created": 1638967643,
+        "proposal": {
+          "id": "0x783cb3d57dd59b2827f6a42967375f06504cc947ebaa3c0e495c7b29ffd47aea"
+        },
+        "choice": {
+          "1": 1,
+          "2": 1,
+          "4": 1
+        },
+        "space": {
+          "id": "ybaby.eth"
+        }
+      },
+      {
+        "id": "0x660348a1a9ac713b17df668d57fc5bde2f24c0715025725e749e6fa32f8612cf",
+        "voter": "0x2BE21Ec97C340301E903F65F66901a23C48f4873",
+        "vp": 0.000001992830709898,
+        "vp_by_strategy": [
+          0.000001992830709898,
+          0
+        ],
+        "vp_state": "final",
+        "created": 1638967355,
+        "proposal": {
+          "id": "0x783cb3d57dd59b2827f6a42967375f06504cc947ebaa3c0e495c7b29ffd47aea"
+        },
+        "choice": {
+          "1": 100
+        },
+        "space": {
+          "id": "ybaby.eth"
+        }
+      },
+      {
+        "id": "0x8cc1f5c3eeb07149e47ed91651a9b7f4cb88d7e7ee427e416a2d1727b769b994",
+        "voter": "0x5fc6E8B1186530d2875dFC550eb91f99D3870202",
+        "vp": 11.015479276963132,
+        "vp_by_strategy": [
+          11.015479276963132,
+          0
+        ],
+        "vp_state": "final",
+        "created": 1638960799,
+        "proposal": {
+          "id": "0x783cb3d57dd59b2827f6a42967375f06504cc947ebaa3c0e495c7b29ffd47aea"
+        },
+        "choice": {
+          "1": 100
+        },
+        "space": {
+          "id": "ybaby.eth"
+        }
+      },
+      {
+        "id": "0x35347e5bf9dc2606079b32e91c6ae958135a350e5ea2ae5fb1c7d75ed0ebcb0e",
+        "voter": "0x57ef2b98306D2c98F2FcEbBDd05090c75982AF72",
+        "vp": 5.994594662638236,
+        "vp_by_strategy": [
+          5.994594662638236,
+          0
+        ],
+        "vp_state": "final",
+        "created": 1638959370,
+        "proposal": {
+          "id": "0x783cb3d57dd59b2827f6a42967375f06504cc947ebaa3c0e495c7b29ffd47aea"
+        },
+        "choice": {
+          "1": 1,
+          "2": 1,
+          "3": 1
+        },
+        "space": {
+          "id": "ybaby.eth"
+        }
+      },
+      {
+        "id": "0x20b7587a3363584311fbb3185188394161fc9be7ea3fcc6ef1cb58a2f82d701d",
+        "voter": "0xb3ABc96cB9a61576c03C955d75B703a890A14aA0",
+        "vp": 1.0001833985431263,
+        "vp_by_strategy": [
+          0.00018339854312632,
+          1
+        ],
+        "vp_state": "final",
+        "created": 1638959218,
+        "proposal": {
+          "id": "0x783cb3d57dd59b2827f6a42967375f06504cc947ebaa3c0e495c7b29ffd47aea"
+        },
+        "choice": {
+          "3": 1
+        },
+        "space": {
+          "id": "ybaby.eth"
+        }
+      },
+      {
+        "id": "0xd2b76d4186f2a147d7e3480120c3779142e31aaa892e50ed28dcd0cd4d227c93",
+        "voter": "0xD7CfCCc63B5F0D5B772A500632A3E062490a7927",
+        "vp": 0.2261155063302175,
+        "vp_by_strategy": [
+          0.2261155063302175,
+          0
+        ],
+        "vp_state": "final",
+        "created": 1638958579,
+        "proposal": {
+          "id": "0x783cb3d57dd59b2827f6a42967375f06504cc947ebaa3c0e495c7b29ffd47aea"
+        },
+        "choice": {
+          "1": 10,
+          "4": 10
+        },
+        "space": {
+          "id": "ybaby.eth"
+        }
+      },
+      {
+        "id": "0xd34c0ba1f9689dac10e4e2edd34eb17285988871a1bc3c71a63b70f3291f8f2b",
+        "voter": "0x9e9Bbd60b1f2a177d11280636fFE4892A89a5912",
+        "vp": 0.0385812,
+        "vp_by_strategy": [
+          0.0385812,
+          0
+        ],
+        "vp_state": "final",
+        "created": 1638955638,
+        "proposal": {
+          "id": "0x783cb3d57dd59b2827f6a42967375f06504cc947ebaa3c0e495c7b29ffd47aea"
+        },
+        "choice": {
+          "5": 100
+        },
+        "space": {
+          "id": "ybaby.eth"
+        }
+      },
+      {
+        "id": "0x66f5f641e9418740a88e32368f2c62a46db2b1eebed84697fbc3d104cf95018a",
+        "voter": "0x74630370197b4c4795bFEeF6645ee14F8cf8997D",
+        "vp": 2.061714127891031,
+        "vp_by_strategy": [
+          2.061714127891031,
+          0
+        ],
+        "vp_state": "final",
+        "created": 1638943291,
+        "proposal": {
+          "id": "0x783cb3d57dd59b2827f6a42967375f06504cc947ebaa3c0e495c7b29ffd47aea"
+        },
+        "choice": {
+          "3": 2,
+          "4": 2
+        },
+        "space": {
+          "id": "ybaby.eth"
+        }
+      },
+      {
+        "id": "0x4ea805f39438856378153594c0895f385a9209fe580988a6cde6c30a40dd21af",
+        "voter": "0x8aB0fE3d61E372A0cAa2b2AcF6D1ffDeFD1c645A",
+        "vp": 10.126561320588861,
+        "vp_by_strategy": [
+          0,
+          10.12656132058886
+        ],
+        "vp_state": "final",
+        "created": 1638938517,
+        "proposal": {
+          "id": "0x783cb3d57dd59b2827f6a42967375f06504cc947ebaa3c0e495c7b29ffd47aea"
+        },
+        "choice": {
+          "3": 1
+        },
+        "space": {
+          "id": "ybaby.eth"
+        }
+      },
+      {
+        "id": "0x540f59e0ba048d7d39d445f07df57cd9c009e9868ee6f4e729e42ffeeb5729f6",
+        "voter": "0x1AEC250C13b1214C4B9935Db3C8a7610fdAaE8dD",
+        "vp": 1.0229584604842492,
+        "vp_by_strategy": [
+          1.0229584604842492,
+          0
+        ],
+        "vp_state": "final",
+        "created": 1638937056,
+        "proposal": {
+          "id": "0x783cb3d57dd59b2827f6a42967375f06504cc947ebaa3c0e495c7b29ffd47aea"
+        },
+        "choice": {
+          "4": 1
+        },
+        "space": {
+          "id": "ybaby.eth"
+        }
+      },
+      {
+        "id": "QmbtZYTWk8YyUjx7hzpNXQpLU65TroTCKy7f4iD9or1DYf",
+        "voter": "0x96e24df16CD7e1D6E35d1F914379C4B8635fAdc1",
+        "vp": 0.11561271458582419,
+        "vp_by_strategy": [
+          0.1156127145858242,
+          0
+        ],
+        "vp_state": "final",
+        "created": 1638931954,
+        "proposal": {
+          "id": "0x783cb3d57dd59b2827f6a42967375f06504cc947ebaa3c0e495c7b29ffd47aea"
+        },
+        "choice": {
+          "2": 1,
+          "5": 1
+        },
+        "space": {
+          "id": "ybaby.eth"
+        }
+      },
+      {
+        "id": "0x620cad5091ea43b4ac74917b8cbe835e3031b2c22c6172b8949b002509c8c15a",
+        "voter": "0x06c4865ab16c9C760622f19a313a2E637E2e66a2",
+        "vp": 0.001,
+        "vp_by_strategy": [
+          0.001,
+          0
+        ],
+        "vp_state": "final",
+        "created": 1638931326,
+        "proposal": {
+          "id": "0x783cb3d57dd59b2827f6a42967375f06504cc947ebaa3c0e495c7b29ffd47aea"
+        },
+        "choice": {
+          "1": 50,
+          "2": 20,
+          "3": 20,
+          "4": 5,
+          "5": 5
+        },
+        "space": {
+          "id": "ybaby.eth"
+        }
+      },
+      {
+        "id": "0x3249e11eb4129a03d3b9ab773e54d42806bc57cceeeb69fcac99f85148ed53a7",
+        "voter": "0xaaa8334B378A8B6D8D37cFfEF6A755394B4C89DF",
+        "vp": 0.8456277475864421,
+        "vp_by_strategy": [
+          0.8456277475864421,
+          0
+        ],
+        "vp_state": "final",
+        "created": 1638930418,
+        "proposal": {
+          "id": "0x783cb3d57dd59b2827f6a42967375f06504cc947ebaa3c0e495c7b29ffd47aea"
+        },
+        "choice": {
+          "3": 1,
+          "5": 1
+        },
+        "space": {
+          "id": "ybaby.eth"
+        }
+      },
+      {
+        "id": "0x240d63c9ca7868193f3f00aeaf6014197eef28e6259a6a16177f33b9093d1f7c",
+        "voter": "0xFE92BF46042b52782Ff60daBA1cF03b66a3A0cF9",
+        "vp": 1.9175641477962426,
+        "vp_by_strategy": [
+          1.9175641477962424,
+          0
+        ],
+        "vp_state": "final",
+        "created": 1638928896,
+        "proposal": {
+          "id": "0x783cb3d57dd59b2827f6a42967375f06504cc947ebaa3c0e495c7b29ffd47aea"
+        },
+        "choice": {
+          "1": 1.9
+        },
+        "space": {
+          "id": "ybaby.eth"
+        }
+      },
+      {
+        "id": "0x40b191cdc7425ec9237b31c3e34656e9079a96f4a00746ad8a84a7f9c0b7b5c9",
+        "voter": "0x678252Cd85e79d0022C6e8FcDB09cF3771ec1e89",
+        "vp": 1.4396971597862487,
+        "vp_by_strategy": [
+          1.439697159786249,
+          0
+        ],
+        "vp_state": "final",
+        "created": 1638928876,
+        "proposal": {
+          "id": "0x783cb3d57dd59b2827f6a42967375f06504cc947ebaa3c0e495c7b29ffd47aea"
+        },
+        "choice": {
+          "2": 1
+        },
+        "space": {
+          "id": "ybaby.eth"
+        }
+      },
+      {
+        "id": "0xcf9cf3877785d530c496a8d532567615b0abf93a6ede2a63b7343f85146b8cd5",
+        "voter": "0xB662ACEAF435C5F21568FC138Ab202C6a43FFc13",
+        "vp": 25.636780450574253,
+        "vp_by_strategy": [
+          25.636780450574253,
+          0
+        ],
+        "vp_state": "final",
+        "created": 1638927684,
+        "proposal": {
+          "id": "0x783cb3d57dd59b2827f6a42967375f06504cc947ebaa3c0e495c7b29ffd47aea"
+        },
+        "choice": {
+          "1": 1
+        },
+        "space": {
+          "id": "ybaby.eth"
+        }
+      },
+      {
+        "id": "0xa11a63110208f99447aaf81777d770013a3717b866a8bbff423419b18356c195",
+        "voter": "0xC9c9f440A867941de6cb1abA447f0423bC62A516",
+        "vp": 9.115841141210455,
+        "vp_by_strategy": [
+          9.115841141210456,
+          0
+        ],
+        "vp_state": "final",
+        "created": 1638927263,
+        "proposal": {
+          "id": "0x783cb3d57dd59b2827f6a42967375f06504cc947ebaa3c0e495c7b29ffd47aea"
+        },
+        "choice": {
+          "2": 1,
+          "3": 1
+        },
+        "space": {
+          "id": "ybaby.eth"
+        }
+      },
+      {
+        "id": "0xf2236c91888c7222ee9cf01bc6115e8e97b1997fee05e558d151d45a0d8ee165",
+        "voter": "0x4b69D047D342D201fff3b24b04761745e32440E7",
+        "vp": 0.565792576615065,
+        "vp_by_strategy": [
+          0.565792576615065,
+          0
+        ],
+        "vp_state": "final",
+        "created": 1638926823,
+        "proposal": {
+          "id": "0x783cb3d57dd59b2827f6a42967375f06504cc947ebaa3c0e495c7b29ffd47aea"
+        },
+        "choice": {
+          "1": 17
+        },
+        "space": {
+          "id": "ybaby.eth"
+        }
+      },
+      {
+        "id": "QmTTMrkaQ7VWFcgyzZNhV5u2xVx7CESzd4nYCR7NWDUn8i",
+        "voter": "0x1C277bD41A276F87D3E92bccD50c7364aa2FFc69",
+        "vp": 90,
+        "vp_by_strategy": [
+          0,
+          90
+        ],
+        "vp_state": "final",
+        "created": 1638924055,
+        "proposal": {
+          "id": "0x783cb3d57dd59b2827f6a42967375f06504cc947ebaa3c0e495c7b29ffd47aea"
+        },
+        "choice": {
+          "2": 25,
+          "3": 25,
+          "5": 40
+        },
+        "space": {
+          "id": "ybaby.eth"
+        }
+      }
+    ]
+  }
+}
